@@ -1,0 +1,1592 @@
+﻿Log file open, 01/18/19 11:19:31
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: BanjoThreeie
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.360366
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.287s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 745
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: -EpicPortal  -epicusername="DrOctavius" -epicuserid=d5ba7f62ebb14b6fbe4953288917be83 -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.01.18-16.19.32:233][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.18-16.19.32:233][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.18-16.19.32:257][  0]LogHAL: Display: Platform has ~ 32 GB [34299015168 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.18-16.19.32:257][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.01.18-16.19.32:257][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.18-16.19.32:258][  0]LogInit: Computer: COSWAEC1104-10
+[2019.01.18-16.19.32:258][  0]LogInit: User: bennett253
+[2019.01.18-16.19.32:258][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.01.18-16.19.32:258][  0]LogInit: High frequency timer resolution =3.507500 MHz
+[2019.01.18-16.19.32:259][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.01.18-16.19.32:259][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.18-16.19.32:259][  0]LogMemory: Process Physical Memory: 100.96 MB used, 100.96 MB peak
+[2019.01.18-16.19.32:259][  0]LogMemory: Process Virtual Memory: 89.74 MB used, 89.74 MB peak
+[2019.01.18-16.19.32:259][  0]LogMemory: Physical Memory: 8815.80 MB used,  23894.29 MB free, 32710.09 MB total
+[2019.01.18-16.19.32:259][  0]LogMemory: Virtual Memory: 4639.43 MB used,  23894.29 MB free, 134217728.00 MB total
+[2019.01.18-16.19.32:296][  0]LogInit: Using OS detected language (en-US).
+[2019.01.18-16.19.32:297][  0]LogInit: Using OS detected locale (en-US).
+[2019.01.18-16.19.32:298][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.01.18-16.19.32:689][  0]LogStreaming: Display: Took  0.393s to InitEngineTextLocalization.
+[2019.01.18-16.19.32:689][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.18-16.19.32:729][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.18-16.19.32:729][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.18-16.19.32:958][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.18-16.19.32:958][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.18-16.19.33:024][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 745' (Feature Level 11_0)
+[2019.01.18-16.19.33:024][  0]LogD3D11RHI:       4063/0/16355 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.01.18-16.19.33:026][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.18-16.19.33:026][  0]LogD3D11RHI:       0/0/16355 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.18-16.19.33:026][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.18-16.19.33:034][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.18-16.19.33:034][  0]LogD3D11RHI:     GPU DeviceId: 0x1382 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.18-16.19.33:034][  0]LogWindows: EnumDisplayDevices:
+[2019.01.18-16.19.33:034][  0]LogWindows:    0. 'NVIDIA GeForce GTX 745' (P:1 D:1)
+[2019.01.18-16.19.33:035][  0]LogWindows:    1. 'NVIDIA GeForce GTX 745' (P:0 D:0)
+[2019.01.18-16.19.33:035][  0]LogWindows:    2. 'NVIDIA GeForce GTX 745' (P:0 D:0)
+[2019.01.18-16.19.33:035][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.01.18-16.19.33:035][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 745
+[2019.01.18-16.19.33:035][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2019.01.18-16.19.33:035][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2019.01.18-16.19.33:035][  0]LogRHI: Texture pool is 2844 MB (70% of 4063 MB)
+[2019.01.18-16.19.33:072][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.18-16.19.33:084][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.01.18-16.19.33:086][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Intermediate/Shaders/WorkingDirectory/12032/).
+[2019.01.18-16.19.33:088][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/bennett253/AppData/Local/Temp/UnrealShaderWorkingDir/FE2BF8234AB3180185D0F5838FD89961/'.
+[2019.01.18-16.19.33:459][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.18-16.19.33:477][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.18-16.19.33:494][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.18-16.19.33:511][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.18-16.19.33:528][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.18-16.19.33:545][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.18-16.19.33:562][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.18-16.19.33:579][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.18-16.19.33:589][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.18-16.19.33:669][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.18-16.19.33:669][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.18-16.19.33:669][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.18-16.19.33:669][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.18-16.19.33:669][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.18-16.19.33:669][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.18-16.19.33:669][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.18-16.19.33:669][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.18-16.19.33:669][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.18-16.19.33:669][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.18-16.19.33:669][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.18-16.19.33:669][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.18-16.19.33:669][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.18-16.19.33:669][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.18-16.19.33:669][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.18-16.19.33:669][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.18-16.19.33:669][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.18-16.19.33:669][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.18-16.19.33:671][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.18-16.19.33:736][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.18-16.19.33:736][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.18-16.19.33:775][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.18-16.19.33:775][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.18-16.19.33:789][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.18-16.19.33:802][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.18-16.19.33:815][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.18-16.19.33:829][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.18-16.19.33:838][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.18-16.19.33:838][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.18-16.19.33:973][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.18-16.19.33:973][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.18-16.19.33:973][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.18-16.19.34:944][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.18-16.19.35:028][  0]LogDerivedDataCache: Loaded boot cache 0.08s 71MB C:/Users/bennett253/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.01.18-16.19.35:029][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/bennett253/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.01.18-16.19.35:029][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.18-16.19.35:029][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.18-16.19.35:029][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.18-16.19.35:029][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.18-16.19.35:042][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.18-16.19.35:061][  0]LogDerivedDataCache: Using Local data cache path C:/Users/bennett253/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.18-16.19.35:061][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.18-16.19.35:061][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.18-16.19.35:081][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.18-16.19.35:082][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.18-16.19.35:083][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.18-16.19.35:168][  0]LogAssetRegistry: FAssetRegistry took 0.0264 seconds to start up
+[2019.01.18-16.19.35:558][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.18-16.19.35:640][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.18-16.19.35:650][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.18-16.19.35:650][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.18-16.19.35:650][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.18-16.19.35:650][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.18-16.19.35:772][  0]LogNetVersion: BanjoThreeie 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 478051438)
+[2019.01.18-16.19.36:429][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.185115 seconds
+[2019.01.18-16.19.36:435][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.01.18-16.19.36:435][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2019.01.18-16.19.36:435][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.18-16.19.37:531][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.18-16.19.37:555][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.18-16.19.37:755][  0]SourceControl: Source control is disabled
+[2019.01.18-16.19.37:755][  0]SourceControl: Source control is disabled
+[2019.01.18-16.19.37:757][  0]SourceControl: Source control is disabled
+[2019.01.18-16.19.37:759][  0]SourceControl: Source control is disabled
+[2019.01.18-16.19.38:048][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.18-16.19.38:157][  0]LogOcInput: OculusInput pre-init called
+[2019.01.18-16.19.38:274][  0]LogEngine: Initializing Engine...
+[2019.01.18-16.19.38:275][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.18-16.19.38:276][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.18-16.19.38:276][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.18-16.19.38:276][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.18-16.19.38:276][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.18-16.19.38:479][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.18-16.19.38:517][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.18-16.19.38:529][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.18-16.19.38:793][  0]LogInit: FAudioDevice initialized.
+[2019.01.18-16.19.38:794][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.18-16.19.38:936][  0]LogDerivedDataCache: Saved boot cache 0.14s 71MB C:/Users/bennett253/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.01.18-16.19.38:937][  0]LogInit: Texture streaming: Enabled
+[2019.01.18-16.19.38:983][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.18-16.19.39:010][  0]LogInit: Transaction tracking system initialized
+[2019.01.18-16.19.39:069][  0]BlueprintLog: New page: Editor Load
+[2019.01.18-16.19.39:334][  0]LocalizationService: Localization service is disabled
+[2019.01.18-16.19.39:989][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/' took 0.01s
+[2019.01.18-16.19.39:989][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.18-16.19.39:989][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.18-16.19.39:989][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.18-16.19.39:989][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.18-16.19.39:989][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.18-16.19.39:989][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.18-16.19.39:989][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.18-16.19.40:208][  0]SourceControl: Source control is disabled
+[2019.01.18-16.19.40:208][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.18-16.19.40:209][  0]LightingResults: New page: Lighting Build
+[2019.01.18-16.19.40:216][  0]MapCheck: New page: Map Check
+[2019.01.18-16.19.40:216][  0]LightingResults: New page: Lighting Build
+[2019.01.18-16.19.40:471][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.01.18-16.19.40:479][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.18-16.19.40:501][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.18-16.19.40:624][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 122.762ms to complete.
+[2019.01.18-16.19.40:624][  0]LogFileHelpers: Loading map 'Template_Default' took 0.417
+[2019.01.18-16.19.40:805][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.18-16.19.40:823][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.18-16.19.40:837][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.18-16.19.40:846][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.18-16.19.40:863][  0]LogCollectionManager: Loaded 0 collections in 0.005935 seconds
+[2019.01.18-16.19.40:965][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/Collections/' took 0.01s
+[2019.01.18-16.19.40:965][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/Developers/bennett253/Collections/' took 0.01s
+[2019.01.18-16.19.40:965][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/Collections/' took 0.01s
+[2019.01.18-16.19.40:965][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.01.18-16.19.40:982][  0]LogContentBrowser: Native class hierarchy populated in 0.0166 seconds. Added 2572 classes and 603 folders.
+[2019.01.18-16.19.41:010][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.01.18-16.19.41:110][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.18-16.19.41:119][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.01.18-16.19.41:154][  0]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.18-16.19.41:156][  0]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.18-16.19.41:160][  0]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.18-16.19.41:253][  0]LogRenderer: Reallocating scene render targets to support 1208x652 Format 9 NumSamples 1 (Frame:1).
+[2019.01.18-16.19.41:382][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.01.18-16.19.41:382][  0]LogLoad: (Engine Initialization) Total time: 12.65 seconds
+[2019.01.18-16.19.41:382][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.18-16.19.41:434][  0]LogContentStreaming: Texture pool size now 400 MB
+[2019.01.18-16.19.41:469][  1]LogAssetRegistry: Asset discovery search completed in 6.3239 seconds
+[2019.01.18-16.19.41:471][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.01.18-16.19.41:471][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000067 seconds (updated 0 objects)
+[2019.01.18-16.19.44:502][179]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.18-16.19.44:612][192]LogSlate: Window 'Message Log' being destroyed
+[2019.01.18-16.19.44:615][192]LogSlate: Window 'Message Log' being destroyed
+[2019.01.18-16.19.45:707][313]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.18-16.19.46:994][450]LogSlate: Took 0.000290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.18-16.20.03:403][344]LogSlate: Took 0.000278 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.18-16.20.03:414][344]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\bennett253\Downloads\RandomAssets\Oak_Tree.fbx)
+[2019.01.18-16.20.03:429][344]LogFbx: Loading FBX Scene from C:\Users\bennett253\Downloads\RandomAssets\Oak_Tree.fbx
+[2019.01.18-16.20.03:435][344]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.18-16.20.05:783][344]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.01.18-16.20.06:053][344]LogMaterial: Display: Missing cached shader map for material Green, compiling. 
+[2019.01.18-16.20.06:117][344]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.18-16.20.06:117][344]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.18-16.20.06:117][344]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.18-16.20.06:122][344]LogMaterial: Display: Missing cached shader map for material Green_2, compiling. 
+[2019.01.18-16.20.06:146][344]LogMaterial: Display: Missing cached shader map for material Trunk, compiling. 
+[2019.01.18-16.20.06:156][344]LogFbx: Warning: Triangulating static mesh Oak
+[2019.01.18-16.20.06:303][344]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.01.18-16.20.06:320][344]LogStaticMesh: Building static mesh Oak_Tree...
+[2019.01.18-16.20.06:349][344]LogStaticMesh: Built static mesh [0.03s] /Game/GivenAssets/Oak_Tree.Oak_Tree
+[2019.01.18-16.20.06:368][344]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.01.18-16.20.06:388][344]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\bennett253\Downloads\RandomAssets\OfficeBuilding.fbx)
+[2019.01.18-16.20.06:406][344]LogFbx: Loading FBX Scene from C:\Users\bennett253\Downloads\RandomAssets\OfficeBuilding.fbx
+[2019.01.18-16.20.06:412][344]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.18-16.20.06:419][344]LogMaterial: Display: Missing cached shader map for material color1, compiling. 
+[2019.01.18-16.20.06:443][344]LogMaterial: Display: Missing cached shader map for material color2, compiling. 
+[2019.01.18-16.20.06:454][344]LogFbx: Warning: Triangulating static mesh polySurface1
+[2019.01.18-16.20.06:541][344]LogStaticMesh: Building static mesh OfficeBuilding...
+[2019.01.18-16.20.06:558][344]LogStaticMesh: Built static mesh [0.02s] /Game/GivenAssets/OfficeBuilding.OfficeBuilding
+[2019.01.18-16.20.06:585][344]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\bennett253\Downloads\RandomAssets\Palm_Tree.fbx)
+[2019.01.18-16.20.06:614][344]LogFbx: Loading FBX Scene from C:\Users\bennett253\Downloads\RandomAssets\Palm_Tree.fbx
+[2019.01.18-16.20.06:626][344]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.18-16.20.06:637][344]LogFbx: Warning: Triangulating static mesh Palm-tree
+[2019.01.18-16.20.06:874][344]LogStaticMesh: Building static mesh Palm_Tree...
+[2019.01.18-16.20.06:915][344]LogStaticMesh: Built static mesh [0.04s] /Game/GivenAssets/Palm_Tree.Palm_Tree
+[2019.01.18-16.20.06:942][344]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.01.18-16.20.06:955][344]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\bennett253\Downloads\RandomAssets\PlayerGun.fbx)
+[2019.01.18-16.20.06:972][344]LogFbx: Loading FBX Scene from C:\Users\bennett253\Downloads\RandomAssets\PlayerGun.fbx
+[2019.01.18-16.20.06:979][344]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.18-16.20.06:991][344]LogMaterial: Display: Missing cached shader map for material phong1, compiling. 
+[2019.01.18-16.20.07:019][344]LogFbx: Warning: Triangulating static mesh pCube3
+[2019.01.18-16.20.07:265][344]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.01.18-16.20.07:282][344]LogStaticMesh: Building static mesh PlayerGun...
+[2019.01.18-16.20.07:321][344]LogStaticMesh: Built static mesh [0.04s] /Game/GivenAssets/PlayerGun.PlayerGun
+[2019.01.18-16.20.07:382][344]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\bennett253\Downloads\RandomAssets\Poplar_Tree.fbx)
+[2019.01.18-16.20.07:403][344]LogFbx: Loading FBX Scene from C:\Users\bennett253\Downloads\RandomAssets\Poplar_Tree.fbx
+[2019.01.18-16.20.07:412][344]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.18-16.20.07:419][344]LogFbx: Warning: Triangulating static mesh Poplar
+[2019.01.18-16.20.07:550][344]LogStaticMesh: Building static mesh Poplar_Tree...
+[2019.01.18-16.20.07:579][344]LogStaticMesh: Built static mesh [0.03s] /Game/GivenAssets/Poplar_Tree.Poplar_Tree
+[2019.01.18-16.20.07:614][344]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.01.18-16.20.07:626][344]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\bennett253\Downloads\RandomAssets\Rabbit.fbx)
+[2019.01.18-16.20.07:647][344]LogFbx: Loading FBX Scene from C:\Users\bennett253\Downloads\RandomAssets\Rabbit.fbx
+[2019.01.18-16.20.07:656][344]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.18-16.20.07:673][344]LogMaterial: Display: Missing cached shader map for material Brown, compiling. 
+[2019.01.18-16.20.07:694][344]LogFbx: Warning: Triangulating static mesh Plane
+[2019.01.18-16.20.08:050][344]LogStaticMesh: Building static mesh Rabbit...
+[2019.01.18-16.20.08:090][344]LogStaticMesh: Built static mesh [0.04s] /Game/GivenAssets/Rabbit.Rabbit
+[2019.01.18-16.20.08:134][344]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\bennett253\Downloads\RandomAssets\reticle.png)
+[2019.01.18-16.20.08:139][344]LogTexture: Display: Building textures: reticle (AutoDXT, 32X32)
+[2019.01.18-16.20.08:154][344]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\bennett253\Downloads\RandomAssets\Slug.fbx)
+[2019.01.18-16.20.08:174][344]LogFbx: Loading FBX Scene from C:\Users\bennett253\Downloads\RandomAssets\Slug.fbx
+[2019.01.18-16.20.08:183][344]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.18-16.20.08:185][344]LogFbx: Warning: Triangulating static mesh pSphere3
+[2019.01.18-16.20.08:334][344]LogStaticMesh: Building static mesh Slug...
+[2019.01.18-16.20.08:377][344]LogStaticMesh: Built static mesh [0.04s] /Game/GivenAssets/Slug.Slug
+[2019.01.18-16.20.08:414][344]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\bennett253\Downloads\RandomAssets\slugDiffuse.jpg)
+[2019.01.18-16.20.08:439][344]LogTexture: Display: Building textures: slugDiffuse (AutoDXT, 1024X1024)
+[2019.01.18-16.20.08:793][344]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\bennett253\Downloads\RandomAssets\slugEyeMap.jpg)
+[2019.01.18-16.20.08:805][344]LogTexture: Display: Building textures: slugEyeMap (AutoDXT, 1024X1024)
+[2019.01.18-16.20.08:890][344]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\bennett253\Downloads\RandomAssets\Tower.fbx)
+[2019.01.18-16.20.08:905][344]LogFbx: Loading FBX Scene from C:\Users\bennett253\Downloads\RandomAssets\Tower.fbx
+[2019.01.18-16.20.08:913][344]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.18-16.20.08:916][344]LogFbx: Warning: Triangulating static mesh pCylinder1
+[2019.01.18-16.20.08:980][344]LogStaticMesh: Building static mesh Tower...
+[2019.01.18-16.20.08:998][344]LogStaticMesh: Built static mesh [0.02s] /Game/GivenAssets/Tower.Tower
+[2019.01.18-16.20.09:044][344]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\bennett253\Downloads\RandomAssets\towerdiffuse.jpg)
+[2019.01.18-16.20.09:084][344]LogShaderCompilers: Display: Shaders left to compile 112
+[2019.01.18-16.20.09:086][344]LogTexture: Display: Building textures: towerdiffuse (AutoDXT, 1024X1024)
+[2019.01.18-16.20.09:645][344]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\bennett253\Downloads\RandomAssets\towernormals.jpg)
+[2019.01.18-16.20.09:735][344]LogTexture: Display: Building textures: towernormals (BC5, 1024X1024)
+[2019.01.18-16.20.09:840][344]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\bennett253\Downloads\RandomAssets\Tree.fbx)
+[2019.01.18-16.20.09:866][344]LogShaderCompilers: Display: Shaders left to compile 102
+[2019.01.18-16.20.09:866][344]LogFbx: Loading FBX Scene from C:\Users\bennett253\Downloads\RandomAssets\Tree.fbx
+[2019.01.18-16.20.09:879][344]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.18-16.20.09:893][344]LogLinker: Can't find file '/Game/GivenAssets/Bark_Diffuse'
+[2019.01.18-16.20.09:893][344]LogLinker: Can't find file '/Game/GivenAssets/Bark_Diffuse'
+[2019.01.18-16.20.09:893][344]LogFbxMaterialImport: Warning: Unable to find Texture file C:/Users/Matt/Everything/Game Design/Game Assets/Textures/Processed Textures/Nature/Bark_Diffuse.jpg
+[2019.01.18-16.20.09:894][344]LogLinker: Can't find file '/Game/GivenAssets/Bark_Normal'
+[2019.01.18-16.20.09:894][344]LogLinker: Can't find file '/Game/GivenAssets/Bark_Normal'
+[2019.01.18-16.20.09:894][344]LogFbxMaterialImport: Warning: Unable to find Texture file C:/Users/Matt/Everything/Game Design/Game Assets/Textures/Processed Textures/Nature/Bark_Normal.png
+[2019.01.18-16.20.09:897][344]LogMaterial: Display: Missing cached shader map for material Bark, compiling. 
+[2019.01.18-16.20.09:916][344]LogFbx: Warning: Triangulating static mesh pCylinder1
+[2019.01.18-16.20.09:959][344]LogStaticMesh: Building static mesh Tree...
+[2019.01.18-16.20.09:978][344]LogStaticMesh: Built static mesh [0.02s] /Game/GivenAssets/Tree.Tree
+[2019.01.18-16.20.10:010][344]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.01.18-16.20.10:024][344]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\bennett253\Downloads\RandomAssets\WittleHooman.fbx)
+[2019.01.18-16.20.10:048][344]LogFbx: Loading FBX Scene from C:\Users\bennett253\Downloads\RandomAssets\WittleHooman.fbx
+[2019.01.18-16.20.10:057][344]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.18-16.20.10:065][344]LogFbx: Warning: Triangulating static mesh polySurface16
+[2019.01.18-16.20.10:129][344]LogStaticMesh: Building static mesh WittleHooman...
+[2019.01.18-16.20.10:162][344]LogStaticMesh: Built static mesh [0.03s] /Game/GivenAssets/WittleHooman.WittleHooman
+[2019.01.18-16.20.10:193][344]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\bennett253\Downloads\RandomAssets\Wolf.fbx)
+[2019.01.18-16.20.10:209][344]LogFbx: Loading FBX Scene from C:\Users\bennett253\Downloads\RandomAssets\Wolf.fbx
+[2019.01.18-16.20.10:227][344]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.18-16.20.10:235][344]LogLinker: Can't find file '/Game/GivenAssets/wolf_diffuse'
+[2019.01.18-16.20.10:235][344]LogLinker: Can't find file '/Game/GivenAssets/wolf_diffuse'
+[2019.01.18-16.20.10:235][344]LogFbxMaterialImport: Warning: Unable to find Texture file C:\Users\mnphmnmn\Desktop\NAM\wolf_diffuse.jpg
+[2019.01.18-16.20.10:236][344]LogLinker: Can't find file '/Game/GivenAssets/ao'
+[2019.01.18-16.20.10:236][344]LogLinker: Can't find file '/Game/GivenAssets/ao'
+[2019.01.18-16.20.10:236][344]LogFbxMaterialImport: Warning: Unable to find Texture file C:\Users\mnphmnmn\Desktop\NAM\ao.jpg
+[2019.01.18-16.20.10:237][344]LogLinker: Can't find file '/Game/GivenAssets/normal1'
+[2019.01.18-16.20.10:237][344]LogLinker: Can't find file '/Game/GivenAssets/normal1'
+[2019.01.18-16.20.10:237][344]LogFbxMaterialImport: Warning: Unable to find Texture file C:\Users\mnphmnmn\Desktop\NAM\normal1.jpg
+[2019.01.18-16.20.10:240][344]LogMaterial: Display: Missing cached shader map for material wolf_difuse, compiling. 
+[2019.01.18-16.20.10:277][344]LogMaterial: Display: Missing cached shader map for material wolf_black, compiling. 
+[2019.01.18-16.20.10:307][344]LogMaterial: Display: Missing cached shader map for material eye, compiling. 
+[2019.01.18-16.20.10:334][344]LogMaterial: Display: Missing cached shader map for material eye3, compiling. 
+[2019.01.18-16.20.10:366][344]LogFbx: Warning: Triangulating static mesh wolf2
+[2019.01.18-16.20.11:499][344]LogShaderCompilers: Display: Shaders left to compile 202
+[2019.01.18-16.20.11:499][344]LogShaderCompilers: Display: Shaders left to compile 192
+[2019.01.18-16.20.11:564][344]LogStaticMesh: Building static mesh Wolf...
+[2019.01.18-16.20.11:766][344]LogStaticMesh: Built static mesh [0.20s] /Game/GivenAssets/Wolf.Wolf
+[2019.01.18-16.20.11:896][344]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\bennett253\Downloads\RandomAssets\lavender_plant/Lavender.fbx)
+[2019.01.18-16.20.11:917][344]LogFbx: Loading FBX Scene from C:\Users\bennett253\Downloads\RandomAssets\lavender_plant/Lavender.fbx
+[2019.01.18-16.20.11:955][344]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.18-16.20.11:967][344]LogLinker: Can't find file '/Game/GivenAssets/lavender_plant/lavender_plant'
+[2019.01.18-16.20.11:967][344]LogLinker: Can't find file '/Game/GivenAssets/lavender_plant/lavender_plant'
+[2019.01.18-16.20.11:968][344]LogFbxMaterialImport: Warning: Unable to find Texture file C:/Users/Matt/Downloads/lavender_plant/lavender_plant.png
+[2019.01.18-16.20.11:969][344]LogFbxMaterialImport: Warning: Unable to find Texture file C:/Users/Matt/Downloads/lavender_plant/lavender_plant.png
+[2019.01.18-16.20.11:972][344]LogMaterial: Display: Missing cached shader map for material phong35, compiling. 
+[2019.01.18-16.20.12:004][344]LogFbx: Warning: Triangulating static mesh lavender_01
+[2019.01.18-16.20.12:299][344]LogStaticMesh: Building static mesh Lavender...
+[2019.01.18-16.20.12:509][344]LogShaderCompilers: Display: Shaders left to compile 204
+[2019.01.18-16.20.12:509][344]LogStaticMesh: Built static mesh [0.21s] /Game/GivenAssets/lavender_plant/Lavender.Lavender
+[2019.01.18-16.20.12:567][344]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\bennett253\Downloads\RandomAssets\lavender_plant/lavender_plant.png)
+[2019.01.18-16.20.12:765][344]LogTexture: Display: Building textures: lavender_plant (BC5, 2048X2048)
+[2019.01.18-16.20.13:202][344]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\bennett253\Downloads\RandomAssets\Leaves/Bush_2.png)
+[2019.01.18-16.20.13:252][344]LogTexture: Display: Building textures: Bush_2 (AutoDXT, 1024X1024)
+[2019.01.18-16.20.13:512][344]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\bennett253\Downloads\RandomAssets\Leaves/Bush_2_Bump.png)
+[2019.01.18-16.20.13:522][344]LogTexture: Display: Building textures: Bush_2_Bump (AutoDXT, 512X512)
+[2019.01.18-16.20.13:609][344]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\bennett253\Downloads\RandomAssets\Leaves/Bush_2_Opacity.png)
+[2019.01.18-16.20.13:635][344]LogTexture: Display: Building textures: Bush_2_Opacity (AutoDXT, 1024X1024)
+[2019.01.18-16.20.13:739][344]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\bennett253\Downloads\RandomAssets\Leaves/Bush_2_Specular.png)
+[2019.01.18-16.20.13:747][344]LogTexture: Display: Building textures: Bush_2_Specular (AutoDXT, 512X512)
+[2019.01.18-16.20.13:816][344]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\bennett253\Downloads\RandomAssets\Leaves/Leaves.fbx)
+[2019.01.18-16.20.13:833][344]LogFbx: Loading FBX Scene from C:\Users\bennett253\Downloads\RandomAssets\Leaves/Leaves.fbx
+[2019.01.18-16.20.13:844][344]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.18-16.20.13:855][344]LogMaterial: Display: Missing cached shader map for material phong1, compiling. 
+[2019.01.18-16.20.13:875][344]LogStaticMesh: Building static mesh Leaves...
+[2019.01.18-16.20.13:879][344]LogStaticMesh: Built static mesh [0.00s] /Game/GivenAssets/Leaves/Leaves.Leaves
+[2019.01.18-16.20.13:926][344]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\bennett253\Downloads\RandomAssets\ParticleTextures/beamTex.jpg)
+[2019.01.18-16.20.13:931][344]LogTexture: Display: Building textures: beamTex (AutoDXT, 256X256)
+[2019.01.18-16.20.13:968][344]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\bennett253\Downloads\RandomAssets\ParticleTextures/fireTex.jpg)
+[2019.01.18-16.20.13:972][344]LogTexture: Display: Building textures: fireTex (AutoDXT, 256X256)
+[2019.01.18-16.20.14:016][344]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\bennett253\Downloads\RandomAssets\ParticleTextures/shinyTex.jpg)
+[2019.01.18-16.20.14:027][344]LogTexture: Display: Building textures: shinyTex (AutoDXT, 256X256)
+[2019.01.18-16.20.14:062][344]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\bennett253\Downloads\RandomAssets\ParticleTextures/smokeTex.png)
+[2019.01.18-16.20.14:068][344]LogTexture: Display: Building textures: smokeTex (BGRA8, 258X258)
+[2019.01.18-16.20.14:083][344]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\bennett253\Downloads\RandomAssets\ParticleTextures/targetTex.png)
+[2019.01.18-16.20.14:092][344]LogTexture: Display: Building textures: targetTex (AutoDXT, 512X512)
+[2019.01.18-16.20.14:186][344]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\bennett253\Downloads\RandomAssets\Boat_Mesh.fbx)
+[2019.01.18-16.20.14:203][344]LogFbx: Loading FBX Scene from C:\Users\bennett253\Downloads\RandomAssets\Boat_Mesh.fbx
+[2019.01.18-16.20.14:235][344]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.18-16.20.14:272][344]LogLinker: Can't find file '/Game/GivenAssets/UV_guide'
+[2019.01.18-16.20.14:272][344]LogLinker: Can't find file '/Game/GivenAssets/UV_guide'
+[2019.01.18-16.20.14:278][344]LogFbxMaterialImport: Warning: Unable to find Texture file D:/Everything/Art/ProjectAssets/Games Design/FoundationAssets/textures/UV guide.jpg
+[2019.01.18-16.20.14:279][344]LogShaderCompilers: Display: Shaders left to compile 216
+[2019.01.18-16.20.14:282][344]LogMaterial: Display: Missing cached shader map for material TextureGuide, compiling. 
+[2019.01.18-16.20.14:315][344]LogMaterial: Display: Missing cached shader map for material Barrel, compiling. 
+[2019.01.18-16.20.14:345][344]LogFbx: Warning: Triangulating static mesh polySurface185
+[2019.01.18-16.20.14:409][344]LogStaticMesh: Building static mesh Boat_Mesh...
+[2019.01.18-16.20.14:423][344]LogStaticMesh: Built static mesh [0.01s] /Game/GivenAssets/Boat_Mesh.Boat_Mesh
+[2019.01.18-16.20.14:459][344]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\bennett253\Downloads\RandomAssets\Carrot.fbx)
+[2019.01.18-16.20.14:479][344]LogFbx: Loading FBX Scene from C:\Users\bennett253\Downloads\RandomAssets\Carrot.fbx
+[2019.01.18-16.20.14:491][344]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.18-16.20.14:504][344]LogMaterial: Display: Missing cached shader map for material Carrot1, compiling. 
+[2019.01.18-16.20.14:534][344]LogMaterial: Display: Missing cached shader map for material Carrot_GReen, compiling. 
+[2019.01.18-16.20.14:552][344]LogFbx: Warning: Triangulating static mesh Carrot
+[2019.01.18-16.20.14:606][344]LogStaticMesh: Building static mesh Carrot...
+[2019.01.18-16.20.14:611][344]LogShaderCompilers: Display: Shaders left to compile 294
+[2019.01.18-16.20.14:611][344]LogStaticMesh: Built static mesh [0.00s] /Game/GivenAssets/Carrot.Carrot
+[2019.01.18-16.20.14:633][344]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.01.18-16.20.14:643][344]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\bennett253\Downloads\RandomAssets\Crystal.fbx)
+[2019.01.18-16.20.14:663][344]LogFbx: Loading FBX Scene from C:\Users\bennett253\Downloads\RandomAssets\Crystal.fbx
+[2019.01.18-16.20.14:672][344]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.18-16.20.14:686][344]LogMaterial: Display: Missing cached shader map for material Almaz, compiling. 
+[2019.01.18-16.20.14:714][344]LogMaterial: Display: Missing cached shader map for material Earth, compiling. 
+[2019.01.18-16.20.14:744][344]LogFbx: Warning: Triangulating static mesh Crystal
+[2019.01.18-16.20.14:793][344]LogStaticMesh: Building static mesh Crystal...
+[2019.01.18-16.20.14:801][344]LogStaticMesh: Built static mesh [0.01s] /Game/GivenAssets/Crystal.Crystal
+[2019.01.18-16.20.14:837][344]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.01.18-16.20.14:848][344]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\bennett253\Downloads\RandomAssets\DollaSign.fbx)
+[2019.01.18-16.20.14:867][344]LogFbx: Loading FBX Scene from C:\Users\bennett253\Downloads\RandomAssets\DollaSign.fbx
+[2019.01.18-16.20.14:880][344]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.18-16.20.14:885][344]LogFbx: Warning: Triangulating static mesh Trim_Char_x_2_1
+[2019.01.18-16.20.14:971][344]LogStaticMesh: Building static mesh DollaSign...
+[2019.01.18-16.20.15:013][344]LogStaticMesh: Built static mesh [0.04s] /Game/GivenAssets/DollaSign.DollaSign
+[2019.01.18-16.20.15:056][344]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\bennett253\Downloads\RandomAssets\EnemyGun.fbx)
+[2019.01.18-16.20.15:075][344]LogFbx: Loading FBX Scene from C:\Users\bennett253\Downloads\RandomAssets\EnemyGun.fbx
+[2019.01.18-16.20.15:085][344]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.18-16.20.15:087][344]LogFbx: Warning: Triangulating static mesh polySurface2
+[2019.01.18-16.20.15:100][344]LogStaticMesh: Building static mesh EnemyGun...
+[2019.01.18-16.20.15:105][344]LogStaticMesh: Built static mesh [0.00s] /Game/GivenAssets/EnemyGun.EnemyGun
+[2019.01.18-16.20.15:159][344]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\bennett253\Downloads\RandomAssets\EnemyNormals.jpg)
+[2019.01.18-16.20.15:214][344]LogTexture: Display: Building textures: EnemyNormals (BC5, 1024X1024)
+[2019.01.18-16.20.15:334][344]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\bennett253\Downloads\RandomAssets\Factory.fbx)
+[2019.01.18-16.20.15:358][344]LogFbx: Loading FBX Scene from C:\Users\bennett253\Downloads\RandomAssets\Factory.fbx
+[2019.01.18-16.20.15:368][344]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.18-16.20.15:377][344]LogFbx: Warning: Triangulating static mesh polySurface9
+[2019.01.18-16.20.15:401][344]LogStaticMesh: Building static mesh Factory...
+[2019.01.18-16.20.15:422][344]LogStaticMesh: Built static mesh [0.02s] /Game/GivenAssets/Factory.Factory
+[2019.01.18-16.20.15:466][344]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\bennett253\Downloads\RandomAssets\Farm.fbx)
+[2019.01.18-16.20.15:489][344]LogFbx: Loading FBX Scene from C:\Users\bennett253\Downloads\RandomAssets\Farm.fbx
+[2019.01.18-16.20.15:506][344]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.18-16.20.15:518][344]LogMaterial: Display: Missing cached shader map for material color, compiling. 
+[2019.01.18-16.20.15:553][344]LogMaterial: Display: Missing cached shader map for material color3, compiling. 
+[2019.01.18-16.20.15:578][344]LogFbx: Warning: Triangulating static mesh polySurface2
+[2019.01.18-16.20.15:615][344]LogStaticMesh: Building static mesh Farm...
+[2019.01.18-16.20.15:634][344]LogShaderCompilers: Display: Shaders left to compile 372
+[2019.01.18-16.20.15:635][344]LogStaticMesh: Built static mesh [0.02s] /Game/GivenAssets/Farm.Farm
+[2019.01.18-16.20.15:668][344]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\bennett253\Downloads\RandomAssets\Fir_Tree.fbx)
+[2019.01.18-16.20.15:687][344]LogFbx: Loading FBX Scene from C:\Users\bennett253\Downloads\RandomAssets\Fir_Tree.fbx
+[2019.01.18-16.20.15:697][344]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.18-16.20.15:708][344]LogMaterial: Display: Missing cached shader map for material Trunk_001, compiling. 
+[2019.01.18-16.20.15:728][344]LogFbx: Warning: Triangulating static mesh Fir-tree
+[2019.01.18-16.20.15:856][344]LogStaticMesh: Building static mesh Fir_Tree...
+[2019.01.18-16.20.15:873][344]LogStaticMesh: Built static mesh [0.02s] /Game/GivenAssets/Fir_Tree.Fir_Tree
+[2019.01.18-16.20.15:915][344]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.01.18-16.20.15:923][344]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\bennett253\Downloads\RandomAssets\Mine.fbx)
+[2019.01.18-16.20.15:946][344]LogFbx: Loading FBX Scene from C:\Users\bennett253\Downloads\RandomAssets\Mine.fbx
+[2019.01.18-16.20.15:955][344]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.18-16.20.15:966][344]LogFbx: Warning: Triangulating static mesh polySurface6
+[2019.01.18-16.20.16:008][344]LogShaderCompilers: Display: Shaders left to compile 384
+[2019.01.18-16.20.16:011][344]LogStaticMesh: Building static mesh Mine...
+[2019.01.18-16.20.16:033][344]LogStaticMesh: Built static mesh [0.02s] /Game/GivenAssets/Mine.Mine
+[2019.01.18-16.20.17:655][357]LogShaderCompilers: Display: Shaders left to compile 374
+[2019.01.18-16.20.18:214][385]LogShaderCompilers: Display: Shaders left to compile 364
+[2019.01.18-16.20.18:472][400]LogShaderCompilers: Display: Shaders left to compile 354
+[2019.01.18-16.20.19:786][478]LogShaderCompilers: Display: Shaders left to compile 344
+[2019.01.18-16.20.19:915][484]LogShaderCompilers: Display: Shaders left to compile 334
+[2019.01.18-16.20.20:502][519]LogShaderCompilers: Display: Shaders left to compile 324
+[2019.01.18-16.20.21:928][602]LogShaderCompilers: Display: Shaders left to compile 314
+[2019.01.18-16.20.22:376][629]LogShaderCompilers: Display: Shaders left to compile 304
+[2019.01.18-16.20.23:385][689]LogShaderCompilers: Display: Shaders left to compile 294
+[2019.01.18-16.20.23:722][709]LogShaderCompilers: Display: Shaders left to compile 284
+[2019.01.18-16.20.24:630][762]LogShaderCompilers: Display: Shaders left to compile 274
+[2019.01.18-16.20.25:135][793]LogShaderCompilers: Display: Shaders left to compile 264
+[2019.01.18-16.20.26:023][848]LogShaderCompilers: Display: Shaders left to compile 254
+[2019.01.18-16.20.26:382][871]LogShaderCompilers: Display: Shaders left to compile 244
+[2019.01.18-16.20.27:240][924]LogShaderCompilers: Display: Shaders left to compile 234
+[2019.01.18-16.20.27:917][967]LogShaderCompilers: Display: Shaders left to compile 224
+[2019.01.18-16.20.28:233][986]LogShaderCompilers: Display: Shaders left to compile 214
+[2019.01.18-16.20.29:509][ 65]LogShaderCompilers: Display: Shaders left to compile 204
+[2019.01.18-16.20.30:181][107]LogShaderCompilers: Display: Shaders left to compile 194
+[2019.01.18-16.20.30:498][127]LogShaderCompilers: Display: Shaders left to compile 184
+[2019.01.18-16.20.31:204][173]LogShaderCompilers: Display: Shaders left to compile 174
+[2019.01.18-16.20.32:080][230]LogShaderCompilers: Display: Shaders left to compile 164
+[2019.01.18-16.20.32:712][269]LogShaderCompilers: Display: Shaders left to compile 154
+[2019.01.18-16.20.33:368][311]LogShaderCompilers: Display: Shaders left to compile 144
+[2019.01.18-16.20.33:469][317]LogShaderCompilers: Display: Shaders left to compile 134
+[2019.01.18-16.20.34:710][395]LogShaderCompilers: Display: Shaders left to compile 124
+[2019.01.18-16.20.35:178][425]LogShaderCompilers: Display: Shaders left to compile 114
+[2019.01.18-16.20.35:258][430]LogShaderCompilers: Display: Shaders left to compile 104
+[2019.01.18-16.20.36:716][524]LogShaderCompilers: Display: Shaders left to compile 94
+[2019.01.18-16.20.37:436][570]LogShaderCompilers: Display: Shaders left to compile 84
+[2019.01.18-16.20.37:926][601]LogShaderCompilers: Display: Shaders left to compile 74
+[2019.01.18-16.20.38:138][614]LogShaderCompilers: Display: Shaders left to compile 64
+[2019.01.18-16.20.39:271][686]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.01.18-16.20.40:033][733]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.01.18-16.20.40:340][753]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.01.18-16.20.40:779][781]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.01.18-16.20.42:118][866]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.18-16.20.42:556][893]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.18-16.21.27:141][514]LogSlate: Window 'Message Log' being destroyed
+[2019.01.18-16.21.32:023][955]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.18-16.21.36:563][336]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.18-16.21.39:720][642]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.18-16.21.40:177][681]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.18-16.21.43:559][982]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.18-16.21.51:051][695]LogSlate: Window 'Color Picker' being destroyed
+[2019.01.18-16.21.54:100][966]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.18-16.21.57:416][271]LogSlate: Window 'Color Picker' being destroyed
+[2019.01.18-16.22.02:567][725]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.18-16.22.05:216][963]LogSlate: Window 'Color Picker' being destroyed
+[2019.01.18-16.22.06:967][119]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.18-16.22.20:093][286]LogSlate: Took 0.003096 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.18-16.22.37:653][849]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.18-16.23.14:623][721]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.18-16.25.46:019][634]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/OverWorld.OverWorld
+[2019.01.18-16.25.47:116][634]LogSlate: Window 'Save Content' being destroyed
+[2019.01.18-16.25.47:162][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/Almaz" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Almaz.uasset" SILENT=true
+[2019.01.18-16.25.47:194][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/Almaz011D7AE440AAA400BAF4B98A50387413.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Almaz.uasset'
+[2019.01.18-16.25.47:213][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/Bark" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Bark.uasset" SILENT=true
+[2019.01.18-16.25.47:245][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/BarkC91B955D448A76669FFBA5A6637AAEE6.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Bark.uasset'
+[2019.01.18-16.25.47:261][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/Barrel" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Barrel.uasset" SILENT=true
+[2019.01.18-16.25.47:276][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/BarrelAE018094475C589B89F988927BC0CDF3.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Barrel.uasset'
+[2019.01.18-16.25.47:292][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/Boat_Mesh" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Boat_Mesh.uasset" SILENT=true
+[2019.01.18-16.25.47:317][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/Boat_MeshECF7DECB463015FE81CD3F848106B273.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Boat_Mesh.uasset'
+[2019.01.18-16.25.47:352][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/Brown" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Brown.uasset" SILENT=true
+[2019.01.18-16.25.47:373][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/Brown507E28A14ED0749C234DF39701FF0CAB.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Brown.uasset'
+[2019.01.18-16.25.47:394][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/Carrot" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Carrot.uasset" SILENT=true
+[2019.01.18-16.25.47:425][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/Carrot7FFCB4394E98E747FF6CEA8D8C0AE330.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Carrot.uasset'
+[2019.01.18-16.25.47:444][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/Carrot1" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Carrot1.uasset" SILENT=true
+[2019.01.18-16.25.47:462][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/Carrot192260A0A4FC0C9E5FC904F8CA2AD5833.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Carrot1.uasset'
+[2019.01.18-16.25.47:481][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/Carrot_GReen" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Carrot_GReen.uasset" SILENT=true
+[2019.01.18-16.25.47:499][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/Carrot_GReen9F61C2C1488A68871347DF95627C60DD.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Carrot_GReen.uasset'
+[2019.01.18-16.25.47:531][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/color" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/color.uasset" SILENT=true
+[2019.01.18-16.25.47:574][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/color2E812F5B454E5352DCEC8C9529CFA4B5.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/color.uasset'
+[2019.01.18-16.25.47:611][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/color1" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/color1.uasset" SILENT=true
+[2019.01.18-16.25.47:667][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/color1C0EB963D42E0A2BF0BFEDFBC194AE222.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/color1.uasset'
+[2019.01.18-16.25.47:692][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/color2" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/color2.uasset" SILENT=true
+[2019.01.18-16.25.47:708][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/color236ADD9814A493C00D489AF92862E0A8F.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/color2.uasset'
+[2019.01.18-16.25.47:725][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/color3" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/color3.uasset" SILENT=true
+[2019.01.18-16.25.47:741][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/color3FE8397464EA7BD13BA14ECBBE05FDA0D.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/color3.uasset'
+[2019.01.18-16.25.47:757][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/Crystal" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Crystal.uasset" SILENT=true
+[2019.01.18-16.25.47:774][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/Crystal39CEFDA140FACC37BF03919EB77BDCEA.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Crystal.uasset'
+[2019.01.18-16.25.47:790][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/DollaSign" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/DollaSign.uasset" SILENT=true
+[2019.01.18-16.25.47:805][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/DollaSignEC13B16440D56D5A9A7AB787DC702EB4.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/DollaSign.uasset'
+[2019.01.18-16.25.47:836][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/Earth" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Earth.uasset" SILENT=true
+[2019.01.18-16.25.47:868][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/EarthFAEEDB3644B05B867407CDA347CAABC6.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Earth.uasset'
+[2019.01.18-16.25.47:889][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/EnemyGun" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/EnemyGun.uasset" SILENT=true
+[2019.01.18-16.25.47:908][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/EnemyGunA9110EAC40740054789FB497B8FC6D4E.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/EnemyGun.uasset'
+[2019.01.18-16.25.47:929][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/EnemyNormals" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/EnemyNormals.uasset" SILENT=true
+[2019.01.18-16.25.48:102][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/EnemyNormals833379C14AE408D6E538B2B8BEE48F4A.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/EnemyNormals.uasset'
+[2019.01.18-16.25.48:126][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/eye" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/eye.uasset" SILENT=true
+[2019.01.18-16.25.48:154][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/eyeA1D3C96D41840039398B1AA12F58D59D.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/eye.uasset'
+[2019.01.18-16.25.48:178][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/eye3" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/eye3.uasset" SILENT=true
+[2019.01.18-16.25.48:195][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/eye30475C46644DCAFFA8E5F98A2F4825524.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/eye3.uasset'
+[2019.01.18-16.25.48:211][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/Factory" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Factory.uasset" SILENT=true
+[2019.01.18-16.25.48:228][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/Factory3DBCDCE44B7B1E0AB6213A86E165E0D9.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Factory.uasset'
+[2019.01.18-16.25.48:247][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/Farm" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Farm.uasset" SILENT=true
+[2019.01.18-16.25.48:263][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/Farm643C0DA340B92A04080781815FA2D440.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Farm.uasset'
+[2019.01.18-16.25.48:279][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/Fir_Tree" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Fir_Tree.uasset" SILENT=true
+[2019.01.18-16.25.48:299][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/Fir_Tree6DE385E344C5F5F3C37A8DAACE5797F6.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Fir_Tree.uasset'
+[2019.01.18-16.25.48:316][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/Green" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Green.uasset" SILENT=true
+[2019.01.18-16.25.48:330][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/Green14CCA703438D2102D8C93B809C96DD91.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Green.uasset'
+[2019.01.18-16.25.48:346][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/Green_2" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Green_2.uasset" SILENT=true
+[2019.01.18-16.25.48:360][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/Green_27066AFDF48CCD13CE58F15AF4EF6DD70.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Green_2.uasset'
+[2019.01.18-16.25.48:394][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/LavenderE2E9D78043FF6DD3DD2C22A285B0EF55.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/lavender_plant/Lavender.uasset'
+[2019.01.18-16.25.48:854][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/lavender_plant0C56071B4F11953658BFD089D38DF204.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/lavender_plant/lavender_plant.uasset'
+[2019.01.18-16.25.48:912][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/phong35B2D53F8F4160994937D4E3AA00372724.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/lavender_plant/phong35.uasset'
+[2019.01.18-16.25.48:924][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/Leaves/Bush_2" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Leaves/Bush_2.uasset" SILENT=true
+[2019.01.18-16.25.49:021][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/Bush_2ED3311124F01DE9A1293CA9B38A40399.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Leaves/Bush_2.uasset'
+[2019.01.18-16.25.49:064][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/Bush_2_BumpA73F9EA1406A3E998B3A48A5D3940A1B.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Leaves/Bush_2_Bump.uasset'
+[2019.01.18-16.25.49:141][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/Bush_2_OpacityACCC5A2A4D74BDE1AD92A0A9F9730517.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Leaves/Bush_2_Opacity.uasset'
+[2019.01.18-16.25.49:183][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/Bush_2_SpecularD56F057F4CA5F4BF65CAE0890D18B729.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Leaves/Bush_2_Specular.uasset'
+[2019.01.18-16.25.49:199][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/Leaves/Leaves" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Leaves/Leaves.uasset" SILENT=true
+[2019.01.18-16.25.49:213][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/Leaves877ED7F840C4D44A5998FFADB92BBB8B.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Leaves/Leaves.uasset'
+[2019.01.18-16.25.49:230][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/Leaves/phong1" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Leaves/phong1.uasset" SILENT=true
+[2019.01.18-16.25.49:245][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/phong12984269C4524E93EE8E6E9A2BFDD8016.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Leaves/phong1.uasset'
+[2019.01.18-16.25.49:261][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/Mine" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Mine.uasset" SILENT=true
+[2019.01.18-16.25.49:279][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/MineE1AB20434A5C668EED6EB0AFD3C4A5F1.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Mine.uasset'
+[2019.01.18-16.25.49:295][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/Oak_Tree" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Oak_Tree.uasset" SILENT=true
+[2019.01.18-16.25.49:311][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/Oak_TreeDF52D2D240721ED3259069BA9924FBDF.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Oak_Tree.uasset'
+[2019.01.18-16.25.49:327][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/OfficeBuilding" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/OfficeBuilding.uasset" SILENT=true
+[2019.01.18-16.25.49:342][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/OfficeBuilding2C81B8D246C4726EAFD14687BF1F1921.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/OfficeBuilding.uasset'
+[2019.01.18-16.25.49:359][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/Palm_Tree" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Palm_Tree.uasset" SILENT=true
+[2019.01.18-16.25.49:374][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/Palm_Tree464A9919492EBA1CD140F3BF93AEEC98.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Palm_Tree.uasset'
+[2019.01.18-16.25.49:400][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/beamTex64E321F84C25B54031FC7FB5EEBDC88E.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/ParticleTextures/beamTex.uasset'
+[2019.01.18-16.25.49:426][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/fireTexBEECDAD8451B74F5F95E59A60F34E78A.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/ParticleTextures/fireTex.uasset'
+[2019.01.18-16.25.49:494][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/shinyTexC23FB45340AA1AF783D4A2BDEDC71EB8.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/ParticleTextures/shinyTex.uasset'
+[2019.01.18-16.25.49:528][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/smokeTexBADE758C413D0D370DF78EABBA07CD63.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/ParticleTextures/smokeTex.uasset'
+[2019.01.18-16.25.49:563][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/targetTex4249F7C44A0E8F3F099C37BBC9E82126.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/ParticleTextures/targetTex.uasset'
+[2019.01.18-16.25.49:578][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/phong1" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/phong1.uasset" SILENT=true
+[2019.01.18-16.25.49:593][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/phong181E56CFB4AF4FE13CD20B6B6EDCE27B8.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/phong1.uasset'
+[2019.01.18-16.25.49:608][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/PlayerGun" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/PlayerGun.uasset" SILENT=true
+[2019.01.18-16.25.49:624][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/PlayerGunD3EA74254F152C63C1AC5CBBAF6B7271.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/PlayerGun.uasset'
+[2019.01.18-16.25.49:642][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/Poplar_Tree" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Poplar_Tree.uasset" SILENT=true
+[2019.01.18-16.25.49:660][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/Poplar_TreeEE813FB3490F16FAF1C19FAA91596E27.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Poplar_Tree.uasset'
+[2019.01.18-16.25.49:677][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/Rabbit" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Rabbit.uasset" SILENT=true
+[2019.01.18-16.25.49:694][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/Rabbit14924ECB439014A6F8B58BBDD2678550.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Rabbit.uasset'
+[2019.01.18-16.25.49:703][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/reticle" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/reticle.uasset" SILENT=true
+[2019.01.18-16.25.49:709][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/reticle1482BFF541FAACDAB1ABC6994A02C365.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/reticle.uasset'
+[2019.01.18-16.25.49:725][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/Slug" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Slug.uasset" SILENT=true
+[2019.01.18-16.25.49:741][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/Slug2D7C39D944AA953221AD5084A8E5B3ED.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Slug.uasset'
+[2019.01.18-16.25.49:759][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/slugDiffuse" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/slugDiffuse.uasset" SILENT=true
+[2019.01.18-16.25.49:865][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/slugDiffuse3F1F93A543A193EB90796EAF9327234F.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/slugDiffuse.uasset'
+[2019.01.18-16.25.49:876][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/slugEyeMap" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/slugEyeMap.uasset" SILENT=true
+[2019.01.18-16.25.49:921][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/slugEyeMapF282C361408D17E764D46996983A8273.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/slugEyeMap.uasset'
+[2019.01.18-16.25.49:937][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/TextureGuide" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/TextureGuide.uasset" SILENT=true
+[2019.01.18-16.25.49:951][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/TextureGuide6E708D5F45F5DEE7494C268024F79BC3.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/TextureGuide.uasset'
+[2019.01.18-16.25.49:967][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/Tower" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Tower.uasset" SILENT=true
+[2019.01.18-16.25.49:985][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/Tower47A4ABA34DB816D2EC1A1F907459B6C3.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Tower.uasset'
+[2019.01.18-16.25.49:999][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/towerdiffuse" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/towerdiffuse.uasset" SILENT=true
+[2019.01.18-16.25.50:133][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/towerdiffuseAC38A48D4F7AFD36F755589F7B6FEFC5.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/towerdiffuse.uasset'
+[2019.01.18-16.25.50:148][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/towernormals" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/towernormals.uasset" SILENT=true
+[2019.01.18-16.25.50:380][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/towernormals627156394DC8A197CB61E29E7A966CFC.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/towernormals.uasset'
+[2019.01.18-16.25.50:398][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/Tree" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Tree.uasset" SILENT=true
+[2019.01.18-16.25.50:415][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/TreeE60DBC43430B54F008D584AD84375A13.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Tree.uasset'
+[2019.01.18-16.25.50:431][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/Trunk" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Trunk.uasset" SILENT=true
+[2019.01.18-16.25.50:445][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/Trunk57F920A44060585545FDC8B5D681760F.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Trunk.uasset'
+[2019.01.18-16.25.50:461][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/Trunk_001" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Trunk_001.uasset" SILENT=true
+[2019.01.18-16.25.50:489][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/Trunk_001D1166DFC459746C25EEA8BAEFF824EE8.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Trunk_001.uasset'
+[2019.01.18-16.25.50:507][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/WittleHooman" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/WittleHooman.uasset" SILENT=true
+[2019.01.18-16.25.50:524][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/WittleHoomanFB7270A94A6381AF6A47329DD728BC41.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/WittleHooman.uasset'
+[2019.01.18-16.25.50:540][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/Wolf" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Wolf.uasset" SILENT=true
+[2019.01.18-16.25.50:558][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/Wolf93F3688649D0B6B9522C348B591E9FDD.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Wolf.uasset'
+[2019.01.18-16.25.50:574][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/wolf_black" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/wolf_black.uasset" SILENT=true
+[2019.01.18-16.25.50:592][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/wolf_black15DAE043469B4B2E9FBC6B9A8A94AFE7.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/wolf_black.uasset'
+[2019.01.18-16.25.50:607][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/wolf_difuse" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/wolf_difuse.uasset" SILENT=true
+[2019.01.18-16.25.50:621][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/wolf_difuse559E9E0644E36F47DE8DD39B0C5895FC.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/wolf_difuse.uasset'
+[2019.01.18-16.25.50:801][634]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/OverWorldC09AA0804C8CB4F1C4482F888DAB92DF.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/Levels/OverWorld.umap'
+[2019.01.18-16.25.50:811][634]LogFileHelpers: Saving map 'OverWorld' took 0.181
+[2019.01.18-16.26.05:012][634]LogSlate: Window 'Save Level As' being destroyed
+[2019.01.18-16.26.07:258][837]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/OverWorld.OverWorld
+[2019.01.18-16.26.08:347][837]LogSlate: Window 'Save Content' being destroyed
+[2019.01.18-16.26.08:351][837]Cmd: MAP LOAD FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/Levels/OverWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.18-16.26.08:352][837]LightingResults: New page: Lighting Build
+[2019.01.18-16.26.08:353][837]LoadErrors: New page: Loading map: OverWorld.umap
+[2019.01.18-16.26.08:354][837]MapCheck: New page: Map Check
+[2019.01.18-16.26.08:354][837]LightingResults: New page: Lighting Build
+[2019.01.18-16.26.08:375][837]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.18-16.26.08:376][837]LogAIModule: Creating AISystem for world OverWorld
+[2019.01.18-16.26.08:407][837]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.18-16.26.08:557][837]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 149.842ms to complete.
+[2019.01.18-16.26.08:559][837]LogFileHelpers: Loading map 'OverWorld' took 0.210
+[2019.01.18-16.26.12:500][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.18-16.26.43:131][954]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.18-16.26.45:011][177]LogActorFactory: Actor Factory created Cube
+[2019.01.18-16.26.46:607][366]LogActorFactory: Actor Factory created Cube
+[2019.01.18-16.26.49:084][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.18-16.26.49:175][667]MapCheck: New page: Map Check
+[2019.01.18-16.26.49:185][667]Cmd: MAP REBUILD ALLVISIBLE
+[2019.01.18-16.26.49:185][667]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.01.18-16.26.49:222][667]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2019.01.18-16.26.49:813][667]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.18-16.26.49:813][667]TextureStreamingBuild: Display: Compiling optional shaders took 0.597 seconds.
+[2019.01.18-16.26.49:813][667]LogLevel: Display: Export Material TexCoord Scales took 0.000 seconds.
+[2019.01.18-16.26.49:819][667]TextureStreamingBuild: Display: Build Texture Streaming took 0.006 seconds.
+[2019.01.18-16.26.49:841][667]LightingResults: New page: Lighting Build - Jan 18, 2019, 6:26:49 AM
+[2019.01.18-16.26.49:903][667]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.01.18-16.26.50:004][667]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.01.18-16.26.50:017][667]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.01.18-16.26.50:537][667]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.01.18-16.26.50:537][667]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12032
+[2019.01.18-16.26.57:799][667]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.01.18-16.26.57:799][667]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.01.18-16.26.57:799][667]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.01.18-16.26.57:799][667]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.01.18-16.26.57:800][667]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.01.18-16.26.57:800][667]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.01.18-16.26.57:932][667]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.01.18-16.26.57:932][667]MapCheck: New page: OverWorld - Jan 18, 2019, 6:26:57 AM
+[2019.01.18-16.26.57:933][667]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2019.01.18-16.26.58:070][667]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 137.972ms to complete.
+[2019.01.18-16.26.58:094][667]LogEditorBuildUtils: Build time 0:08
+[2019.01.18-16.27.00:191][787]Job is a success!
+[2019.01.18-16.27.00:255][788]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.026s
+[2019.01.18-16.27.00:255][788]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.01.18-16.27.00:255][788]LogVolumetricLightmapImport:      BrickData 15x5x5 = 0.0Mb
+[2019.01.18-16.27.00:255][788]LogVolumetricLightmapImport:      Bricks at Level
+[2019.01.18-16.27.00:255][788]LogVolumetricLightmapImport:          0: 33.3% covering 100.0% of volume
+[2019.01.18-16.27.00:255][788]LogVolumetricLightmapImport:          1: 33.3% covering 1.6% of volume
+[2019.01.18-16.27.00:255][788]LogVolumetricLightmapImport:          2: 33.3% covering 0.0% of volume
+[2019.01.18-16.27.00:268][788]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 128X128)
+[2019.01.18-16.27.00:268][788]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 128X128)
+[2019.01.18-16.27.00:268][788]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 64X64)
+[2019.01.18-16.27.00:302][788]Lightmass on COSWAEC1104-10: 1.09 sec total, 263 ms importing, 6 ms setup, 395 ms photons, 367 ms processing, 0 ms extra exporting [1/1 mappings]. Threads: 2.40 sec total, 13 ms processing.
+[2019.01.18-16.27.00:329][788]LogStaticLightingSystem: Illumination: 10.4 sec (3 ms encoding lightmaps, 2 ms encoding shadowmaps)
+[2019.01.18-16.27.00:329][788]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.01.18-16.27.00:329][788]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2019.01.18-16.27.00:802][788]DumpUnbuiltLightIteractions
+[2019.01.18-16.27.00:802][788]Lights with unbuilt interactions: 0
+[2019.01.18-16.27.00:802][788]
+[2019.01.18-16.27.00:802][788]Primitives with unbuilt interactions: 0
+[2019.01.18-16.27.00:845][789]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.01.18-16.27.00:846][789]MapCheck: New page: OverWorld - Jan 18, 2019, 6:27:00 AM
+[2019.01.18-16.27.00:994][789]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 147.924ms to complete.
+[2019.01.18-16.27.01:806][874]LogSlate: Window 'Message Log' being destroyed
+[2019.01.18-16.27.01:811][874]LogSlate: Window 'Message Log' being destroyed
+[2019.01.18-16.27.33:042][451]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.18-16.27.39:059][ 88]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2019.01.18-16.27.48:847][246]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.18-16.27.48:971][261]MapCheck: New page: Map Check
+[2019.01.18-16.27.48:982][261]Cmd: MAP REBUILD ALLVISIBLE
+[2019.01.18-16.27.48:982][261]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.01.18-16.27.49:013][261]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2019.01.18-16.27.49:017][261]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.01.18-16.27.49:732][261]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.18-16.27.49:732][261]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.18-16.27.49:732][261]TextureStreamingBuild: Display: Compiling optional shaders took 0.722 seconds.
+[2019.01.18-16.27.49:734][261]LogLevel: Display: Export Material TexCoord Scales took 0.002 seconds.
+[2019.01.18-16.27.49:739][261]TextureStreamingBuild: Display: Build Texture Streaming took 0.005 seconds.
+[2019.01.18-16.27.49:758][261]LightingResults: New page: Lighting Build - Jan 18, 2019, 6:27:49 AM
+[2019.01.18-16.27.49:792][261]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.01.18-16.27.49:794][261]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.01.18-16.27.49:794][261]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.01.18-16.27.49:795][261]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.01.18-16.27.49:795][261]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12032
+[2019.01.18-16.27.54:366][261]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.01.18-16.27.54:366][261]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.01.18-16.27.54:366][261]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.01.18-16.27.54:366][261]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.01.18-16.27.54:366][261]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.01.18-16.27.54:366][261]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.01.18-16.27.54:409][261]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.01.18-16.27.54:409][261]MapCheck: New page: OverWorld - Jan 18, 2019, 6:27:54 AM
+[2019.01.18-16.27.54:409][261]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2019.01.18-16.27.54:540][261]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 131.094ms to complete.
+[2019.01.18-16.27.54:563][261]LogEditorBuildUtils: Build time 0:05
+[2019.01.18-16.27.54:570][261]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.18-16.27.56:630][381]Job is a success!
+[2019.01.18-16.27.56:700][383]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.020s
+[2019.01.18-16.27.56:700][383]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.01.18-16.27.56:700][383]LogVolumetricLightmapImport:      BrickData 15x5x5 = 0.0Mb
+[2019.01.18-16.27.56:700][383]LogVolumetricLightmapImport:      Bricks at Level
+[2019.01.18-16.27.56:700][383]LogVolumetricLightmapImport:          0: 33.3% covering 100.0% of volume
+[2019.01.18-16.27.56:700][383]LogVolumetricLightmapImport:          1: 33.3% covering 1.6% of volume
+[2019.01.18-16.27.56:700][383]LogVolumetricLightmapImport:          2: 33.3% covering 0.0% of volume
+[2019.01.18-16.27.56:738][383]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 128X128)
+[2019.01.18-16.27.56:738][383]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 128X128)
+[2019.01.18-16.27.56:738][383]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2019.01.18-16.27.56:738][383]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2019.01.18-16.27.56:738][383]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 32X32)
+[2019.01.18-16.27.56:738][383]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 64X64)
+[2019.01.18-16.27.56:768][383]Lightmass on COSWAEC1104-10: 1.08 sec total, 187 ms importing, 55 ms setup, 395 ms photons, 389 ms processing, 0 ms extra exporting [2/2 mappings]. Threads: 2.56 sec total, 73 ms processing.
+[2019.01.18-16.27.56:773][383]LogStaticLightingSystem: Illumination: 6.99 sec (2 ms encoding lightmaps, 28 ms encoding shadowmaps)
+[2019.01.18-16.27.56:773][383]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2019.01.18-16.27.56:773][383]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.01.18-16.27.57:375][383]DumpUnbuiltLightIteractions
+[2019.01.18-16.27.57:376][383]Lights with unbuilt interactions: 0
+[2019.01.18-16.27.57:376][383]
+[2019.01.18-16.27.57:376][383]Primitives with unbuilt interactions: 0
+[2019.01.18-16.27.57:386][383]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.18-16.27.57:413][384]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.01.18-16.27.57:414][384]MapCheck: New page: OverWorld - Jan 18, 2019, 6:27:57 AM
+[2019.01.18-16.27.57:582][384]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 167.931ms to complete.
+[2019.01.18-16.27.58:093][432]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.18-16.27.58:210][446]LogSlate: Window 'Message Log' being destroyed
+[2019.01.18-16.27.58:216][446]LogSlate: Window 'Message Log' being destroyed
+[2019.01.18-16.28.03:112][987]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.18-16.28.14:705][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.18-16.28.16:247][380]LogActorFactory: Actor Factory created Cube
+[2019.01.18-16.28.18:219][582]LogActorFactory: Actor Factory created Cube
+[2019.01.18-16.28.29:799][933]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.18-16.28.29:881][943]MapCheck: New page: Map Check
+[2019.01.18-16.28.29:893][943]Cmd: MAP REBUILD ALLVISIBLE
+[2019.01.18-16.28.29:893][943]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.01.18-16.28.29:924][943]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2019.01.18-16.28.29:930][943]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.01.18-16.28.30:621][943]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.18-16.28.30:622][943]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.18-16.28.30:622][943]TextureStreamingBuild: Display: Compiling optional shaders took 0.700 seconds.
+[2019.01.18-16.28.30:623][943]LogLevel: Display: Export Material TexCoord Scales took 0.002 seconds.
+[2019.01.18-16.28.30:631][943]TextureStreamingBuild: Display: Build Texture Streaming took 0.007 seconds.
+[2019.01.18-16.28.30:651][943]LightingResults: New page: Lighting Build - Jan 18, 2019, 6:28:30 AM
+[2019.01.18-16.28.30:686][943]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.01.18-16.28.30:688][943]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.01.18-16.28.30:688][943]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.01.18-16.28.30:690][943]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.01.18-16.28.30:690][943]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12032
+[2019.01.18-16.28.35:226][943]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.01.18-16.28.35:226][943]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.01.18-16.28.35:227][943]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.01.18-16.28.35:227][943]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.01.18-16.28.35:227][943]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.01.18-16.28.35:227][943]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.01.18-16.28.35:327][943]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.01.18-16.28.35:327][943]MapCheck: New page: OverWorld - Jan 18, 2019, 6:28:35 AM
+[2019.01.18-16.28.35:328][943]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2019.01.18-16.28.35:496][943]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 170.031ms to complete.
+[2019.01.18-16.28.35:519][943]LogEditorBuildUtils: Build time 0:05
+[2019.01.18-16.28.35:525][943]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.18-16.28.37:639][ 75]Job is a success!
+[2019.01.18-16.28.37:718][ 76]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.018s
+[2019.01.18-16.28.37:718][ 76]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.01.18-16.28.37:718][ 76]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2019.01.18-16.28.37:718][ 76]LogVolumetricLightmapImport:      Bricks at Level
+[2019.01.18-16.28.37:718][ 76]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2019.01.18-16.28.37:718][ 76]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2019.01.18-16.28.37:718][ 76]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2019.01.18-16.28.37:770][ 76]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 128X128)
+[2019.01.18-16.28.37:770][ 76]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 128X128)
+[2019.01.18-16.28.37:770][ 76]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2019.01.18-16.28.37:770][ 76]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2019.01.18-16.28.37:770][ 76]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 32X32)
+[2019.01.18-16.28.37:770][ 76]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 128X64)
+[2019.01.18-16.28.37:802][ 76]Lightmass on COSWAEC1104-10: 1.09 sec total, 164 ms importing, 49 ms setup, 397 ms photons, 425 ms processing, 0 ms extra exporting [3/3 mappings]. Threads: 2.81 sec total, 143 ms processing.
+[2019.01.18-16.28.37:805][ 76]LogStaticLightingSystem: Illumination: 7.13 sec (12 ms encoding lightmaps, 28 ms encoding shadowmaps)
+[2019.01.18-16.28.37:805][ 76]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2019.01.18-16.28.37:805][ 76]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.01.18-16.28.38:236][ 76]DumpUnbuiltLightIteractions
+[2019.01.18-16.28.38:236][ 76]Lights with unbuilt interactions: 0
+[2019.01.18-16.28.38:236][ 76]
+[2019.01.18-16.28.38:236][ 76]Primitives with unbuilt interactions: 0
+[2019.01.18-16.28.38:252][ 77]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.01.18-16.28.38:252][ 77]MapCheck: New page: OverWorld - Jan 18, 2019, 6:28:38 AM
+[2019.01.18-16.28.38:396][ 77]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 143.643ms to complete.
+[2019.01.18-16.28.40:921][304]LogSlate: Window 'Message Log' being destroyed
+[2019.01.18-16.28.40:924][304]LogSlate: Window 'Message Log' being destroyed
+[2019.01.18-16.28.45:660][839]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.01.18-16.28.56:874][989]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.18-16.29.04:211][787]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.01.18-16.29.07:603][160]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.01.18-16.29.08:033][209]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2019.01.18-16.29.08:408][245]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.01.18-16.29.12:216][687]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.18-16.29.35:005][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.18-16.29.40:644][843]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.18-16.29.40:759][857]MapCheck: New page: Map Check
+[2019.01.18-16.29.40:769][857]Cmd: MAP REBUILD ALLVISIBLE
+[2019.01.18-16.29.40:769][857]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.01.18-16.29.40:801][857]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2019.01.18-16.29.40:806][857]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.01.18-16.29.41:499][857]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.18-16.29.41:499][857]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.18-16.29.41:499][857]TextureStreamingBuild: Display: Compiling optional shaders took 0.702 seconds.
+[2019.01.18-16.29.41:501][857]LogLevel: Display: Export Material TexCoord Scales took 0.002 seconds.
+[2019.01.18-16.29.41:508][857]TextureStreamingBuild: Display: Build Texture Streaming took 0.006 seconds.
+[2019.01.18-16.29.41:527][857]LightingResults: New page: Lighting Build - Jan 18, 2019, 6:29:41 AM
+[2019.01.18-16.29.41:560][857]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.01.18-16.29.41:563][857]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.01.18-16.29.41:563][857]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.01.18-16.29.41:565][857]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.01.18-16.29.41:565][857]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12032
+[2019.01.18-16.29.50:632][857]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.01.18-16.29.50:632][857]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.01.18-16.29.50:632][857]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.01.18-16.29.50:632][857]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.01.18-16.29.50:632][857]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.01.18-16.29.50:632][857]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.01.18-16.29.50:787][857]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.01.18-16.29.50:788][857]MapCheck: New page: OverWorld - Jan 18, 2019, 6:29:50 AM
+[2019.01.18-16.29.50:919][857]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 132.419ms to complete.
+[2019.01.18-16.29.50:943][857]LogEditorBuildUtils: Build time 0:10
+[2019.01.18-16.29.53:057][974]Job is a success!
+[2019.01.18-16.29.53:075][975]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.18-16.29.53:125][975]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.018s
+[2019.01.18-16.29.53:125][975]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.01.18-16.29.53:125][975]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2019.01.18-16.29.53:125][975]LogVolumetricLightmapImport:      Bricks at Level
+[2019.01.18-16.29.53:125][975]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2019.01.18-16.29.53:125][975]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2019.01.18-16.29.53:125][975]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2019.01.18-16.29.53:169][975]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 128X128)
+[2019.01.18-16.29.53:169][975]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 128X64)
+[2019.01.18-16.29.53:169][975]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 128X128)
+[2019.01.18-16.29.53:169][975]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 64X32)
+[2019.01.18-16.29.53:169][975]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2019.01.18-16.29.53:169][975]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2019.01.18-16.29.53:169][975]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 32X32)
+[2019.01.18-16.29.53:169][975]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 128X64)
+[2019.01.18-16.29.53:204][975]Lightmass on COSWAEC1104-10: 1.07 sec total, 154 ms importing, 50 ms setup, 395 ms photons, 414 ms processing, 0 ms extra exporting [3/3 mappings]. Threads: 2.73 sec total, 167 ms processing.
+[2019.01.18-16.29.53:209][975]LogStaticLightingSystem: Illumination: 11.6 sec (12 ms encoding lightmaps, 24 ms encoding shadowmaps)
+[2019.01.18-16.29.53:209][975]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2019.01.18-16.29.53:209][975]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.01.18-16.29.53:636][975]DumpUnbuiltLightIteractions
+[2019.01.18-16.29.53:637][975]Lights with unbuilt interactions: 0
+[2019.01.18-16.29.53:637][975]
+[2019.01.18-16.29.53:637][975]Primitives with unbuilt interactions: 0
+[2019.01.18-16.29.53:656][975]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.18-16.29.53:706][976]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.01.18-16.29.53:706][976]MapCheck: New page: OverWorld - Jan 18, 2019, 6:29:53 AM
+[2019.01.18-16.29.53:845][976]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 139.562ms to complete.
+[2019.01.18-16.30.08:004][496]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.18-16.31.05:881][220]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/OverWorld309EB9E74770D8759DC91BB9030A2824.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/Levels/OverWorld.umap'
+[2019.01.18-16.31.05:911][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/OverWorld_BuiltData" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/Levels/OverWorld_BuiltData.uasset" SILENT=true
+[2019.01.18-16.31.05:927][220]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/OverWorld_BuiltDataFF30BD144681E51DCF90E28AC00E5569.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/Levels/OverWorld_BuiltData.uasset'
+[2019.01.18-16.31.28:490][448]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.01.18-16.31.40:768][284]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.18-16.31.42:827][443]MapCheck: New page: Map Check
+[2019.01.18-16.31.42:839][443]Cmd: MAP REBUILD ALLVISIBLE
+[2019.01.18-16.31.42:839][443]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.01.18-16.31.42:870][443]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2019.01.18-16.31.42:875][443]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.01.18-16.31.43:611][443]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.18-16.31.43:611][443]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.18-16.31.43:611][443]TextureStreamingBuild: Display: Compiling optional shaders took 0.744 seconds.
+[2019.01.18-16.31.43:613][443]LogLevel: Display: Export Material TexCoord Scales took 0.002 seconds.
+[2019.01.18-16.31.43:622][443]TextureStreamingBuild: Display: Build Texture Streaming took 0.008 seconds.
+[2019.01.18-16.31.43:641][443]LightingResults: New page: Lighting Build - Jan 18, 2019, 6:31:43 AM
+[2019.01.18-16.31.43:674][443]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.01.18-16.31.43:677][443]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.01.18-16.31.43:677][443]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.01.18-16.31.43:678][443]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.01.18-16.31.43:678][443]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12032
+[2019.01.18-16.31.52:741][443]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.01.18-16.31.52:742][443]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.01.18-16.31.52:742][443]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.01.18-16.31.52:742][443]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.01.18-16.31.52:742][443]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.01.18-16.31.52:743][443]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.01.18-16.31.52:880][443]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.01.18-16.31.52:881][443]MapCheck: New page: OverWorld - Jan 18, 2019, 6:31:52 AM
+[2019.01.18-16.31.53:043][443]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 162.244ms to complete.
+[2019.01.18-16.31.53:067][443]LogEditorBuildUtils: Build time 0:10
+[2019.01.18-16.31.55:069][567]Job is a success!
+[2019.01.18-16.31.55:148][568]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.014s
+[2019.01.18-16.31.55:148][568]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.01.18-16.31.55:148][568]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2019.01.18-16.31.55:148][568]LogVolumetricLightmapImport:      Bricks at Level
+[2019.01.18-16.31.55:148][568]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2019.01.18-16.31.55:148][568]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2019.01.18-16.31.55:148][568]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2019.01.18-16.31.55:191][568]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 128X64)
+[2019.01.18-16.31.55:191][568]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 128X128)
+[2019.01.18-16.31.55:191][568]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 128X128)
+[2019.01.18-16.31.55:191][568]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2019.01.18-16.31.55:191][568]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2019.01.18-16.31.55:191][568]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2019.01.18-16.31.55:191][568]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 32X32)
+[2019.01.18-16.31.55:191][568]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 128X64)
+[2019.01.18-16.31.55:223][568]Lightmass on COSWAEC1104-10: 1.02 sec total, 153 ms importing, 16 ms setup, 395 ms photons, 400 ms processing, 0 ms extra exporting [3/3 mappings]. Threads: 2.63 sec total, 162 ms processing.
+[2019.01.18-16.31.55:230][568]LogStaticLightingSystem: Illumination: 11.5 sec (11 ms encoding lightmaps, 22 ms encoding shadowmaps)
+[2019.01.18-16.31.55:230][568]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2019.01.18-16.31.55:230][568]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.01.18-16.31.55:744][568]DumpUnbuiltLightIteractions
+[2019.01.18-16.31.55:744][568]Lights with unbuilt interactions: 0
+[2019.01.18-16.31.55:744][568]
+[2019.01.18-16.31.55:744][568]Primitives with unbuilt interactions: 0
+[2019.01.18-16.31.55:835][569]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.01.18-16.31.55:836][569]MapCheck: New page: OverWorld - Jan 18, 2019, 6:31:55 AM
+[2019.01.18-16.31.55:979][569]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 144.431ms to complete.
+[2019.01.18-16.32.09:219][800]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.18-16.32.09:234][800]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.18-16.32.09:247][800]PIE: New page: PIE session: OverWorld (Jan 18, 2019, 6:32:09 AM)
+[2019.01.18-16.32.09:247][800]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_OverWorld
+[2019.01.18-16.32.09:249][800]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001405s)
+[2019.01.18-16.32.09:249][800]LogAIModule: Creating AISystem for world OverWorld
+[2019.01.18-16.32.09:249][800]LogPlayLevel: PIE: World Init took: (0.000699s)
+[2019.01.18-16.32.09:249][800]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/OverWorld.OverWorld to /Game/Levels/UEDPIE_0_OverWorld.OverWorld (0.002218s)
+[2019.01.18-16.32.09:274][800]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.18-16.32.09:303][800]LogInit: FAudioDevice initialized.
+[2019.01.18-16.32.09:349][800]LogLoad: Game class is 'GameModeBase'
+[2019.01.18-16.32.09:350][800]LogWorld: Bringing World /Game/Levels/UEDPIE_0_OverWorld.OverWorld up for play (max tick rate 0) at 2019.01.18-11.32.09
+[2019.01.18-16.32.09:350][800]LogWorld: Bringing up level for play took: 0.000562
+[2019.01.18-16.32.09:393][800]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 10 classes and 0 folders.
+[2019.01.18-16.32.09:394][800]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_OverWorld -0.103
+[2019.01.18-16.32.19:898][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.18-16.32.19:931][ 55]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.18-16.32.19:953][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.18-16.32.20:002][ 60]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.01.18-16.32.21:284][210]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.18-16.32.22:154][311]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.18-16.32.22:166][311]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.18-16.32.24:668][581]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/OverWorld85497ABF41D924B1B75028AA3DDFBA58.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/Levels/OverWorld.umap'
+[2019.01.18-16.32.24:697][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/OverWorld_BuiltData" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/Levels/OverWorld_BuiltData.uasset" SILENT=true
+[2019.01.18-16.32.24:722][581]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/OverWorld_BuiltData28AED63944AEEF591720F2AA76F388FA.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/Levels/OverWorld_BuiltData.uasset'
+[2019.01.18-16.33.13:046][754]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.18-16.34.49:280][959]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.18-16.34.49:537][982]LogActorFactory: Actor Factory created EnemyGun
+[2019.01.18-16.34.52:459][329]LogActorFactory: Actor Factory created EnemyGun
+[2019.01.18-16.34.55:760][689]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.18-16.35.01:101][228]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.18-16.35.21:904][431]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.18-16.35.52:495][497]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/GivenAssets/EnemyGun.EnemyGun
+[2019.01.18-16.35.57:872][839]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.18-16.36.05:191][313]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.18-16.36.05:287][317]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/EnemyGun" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/EnemyGun.uasset" SILENT=true
+[2019.01.18-16.36.05:320][317]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/EnemyGun1CB09A774E3E55527284F186F62B3932.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/EnemyGun.uasset'
+[2019.01.18-16.36.11:527][756]LogActorFactory: Actor Factory created Tower
+[2019.01.18-16.36.12:366][821]LogActorFactory: Actor Factory created Tower
+[2019.01.18-16.36.32:324][229]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.18-16.36.32:535][241]LogActorFactory: Actor Factory created Tree
+[2019.01.18-16.36.33:060][279]LogActorFactory: Actor Factory created Tree
+[2019.01.18-16.36.33:743][325]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.18-16.36.33:899][334]LogActorFactory: Actor Factory created Tree
+[2019.01.18-16.36.34:879][409]LogActorFactory: Actor Factory created Tree
+[2019.01.18-16.36.35:762][468]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.18-16.36.35:922][477]LogActorFactory: Actor Factory created Tree
+[2019.01.18-16.36.36:567][526]LogActorFactory: Actor Factory created Tree
+[2019.01.18-16.36.39:626][755]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.18-16.37.02:358][951]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.18-16.37.21:006][339]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.18-16.37.21:220][348]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/OverWorld5CFA90CE49DEF2E1D5BA0E91D1A1DBDA.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/Levels/OverWorld.umap'
+[2019.01.18-16.37.21:248][348]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/OverWorld_BuiltData" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/Levels/OverWorld_BuiltData.uasset" SILENT=true
+[2019.01.18-16.37.21:265][348]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/OverWorld_BuiltDataA4EA9026411403DC1AAE5F842E71BFCB.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/Levels/OverWorld_BuiltData.uasset'
+[2019.01.18-16.37.45:733][249]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.01.18-16.37.46:873][324]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.18-16.37.46:960][330]LogSlate: Window 'Source Control Login' being destroyed
+[2019.01.18-16.37.56:033][966]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.18-16.38.26:513][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.18-16.39.28:059][535]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.18-16.39.28:096][535]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.18-16.39.48:632][234]LogSlate: Window 'Create New GameMode' being destroyed
+[2019.01.18-16.40.07:921][457]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.18-16.40.44:923][ 31]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.01.18-16.41.01:254][138]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.18-16.41.01:262][138]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.01.18-16.41.11:932][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.18-16.41.12:038][780]LogSlate: Window 'EnemyGun' being destroyed
+[2019.01.18-16.41.12:057][780]LogSlate: Window 'EnemyGun' being destroyed
+[2019.01.18-16.41.14:714][ 40]MapCheck: New page: Map Check
+[2019.01.18-16.41.14:733][ 40]Cmd: MAP REBUILD ALLVISIBLE
+[2019.01.18-16.41.14:734][ 40]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.01.18-16.41.14:820][ 40]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2019.01.18-16.41.14:824][ 40]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.01.18-16.41.14:830][ 40]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.18-16.41.14:830][ 40]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.18-16.41.14:830][ 40]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy phong1, compiling. 
+[2019.01.18-16.41.14:835][ 40]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Green, compiling. 
+[2019.01.18-16.41.14:845][ 40]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Bark, compiling. 
+[2019.01.18-16.41.15:715][ 40]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.18-16.41.15:715][ 40]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.18-16.41.15:715][ 40]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.18-16.41.15:715][ 40]TextureStreamingBuild: Display: Compiling optional shaders took 0.898 seconds.
+[2019.01.18-16.41.15:717][ 40]LogLevel: Display: Export Material TexCoord Scales took 0.002 seconds.
+[2019.01.18-16.41.15:724][ 40]TextureStreamingBuild: Display: Build Texture Streaming took 0.006 seconds.
+[2019.01.18-16.41.15:744][ 40]LightingResults: New page: Lighting Build - Jan 18, 2019, 6:41:15 AM
+[2019.01.18-16.41.15:754][ 40]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.01.18-16.41.15:757][ 40]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.01.18-16.41.15:757][ 40]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.01.18-16.41.15:758][ 40]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.01.18-16.41.15:758][ 40]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12032
+[2019.01.18-16.41.24:822][ 40]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.01.18-16.41.24:822][ 40]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.01.18-16.41.24:822][ 40]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.01.18-16.41.24:823][ 40]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.01.18-16.41.24:823][ 40]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.01.18-16.41.24:823][ 40]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.01.18-16.41.25:042][ 40]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.01.18-16.41.25:042][ 40]MapCheck: New page: OverWorld - Jan 18, 2019, 6:41:25 AM
+[2019.01.18-16.41.25:054][ 40]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2019.01.18-16.41.25:202][ 40]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 160.126ms to complete.
+[2019.01.18-16.41.25:225][ 40]LogEditorBuildUtils: Build time 0:10
+[2019.01.18-16.41.25:255][ 40]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer phong1, compiling. 
+[2019.01.18-16.41.25:260][ 40]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer phong1, compiling. 
+[2019.01.18-16.41.25:316][ 40]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.18-16.41.25:334][ 41]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Green, compiling. 
+[2019.01.18-16.41.25:344][ 41]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.18-16.41.25:344][ 41]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Green, compiling. 
+[2019.01.18-16.41.25:359][ 41]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.18-16.41.25:377][ 42]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Bark, compiling. 
+[2019.01.18-16.41.25:389][ 42]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.18-16.41.25:389][ 42]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Bark, compiling. 
+[2019.01.18-16.41.26:262][ 43]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.18-16.41.29:287][ 56]Job is a success!
+[2019.01.18-16.41.29:763][ 57]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.021s
+[2019.01.18-16.41.29:763][ 57]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.01.18-16.41.29:763][ 57]LogVolumetricLightmapImport:      BrickData 45x5x5 = 0.0Mb
+[2019.01.18-16.41.29:763][ 57]LogVolumetricLightmapImport:      Bricks at Level
+[2019.01.18-16.41.29:763][ 57]LogVolumetricLightmapImport:          0: 11.1% covering 100.0% of volume
+[2019.01.18-16.41.29:763][ 57]LogVolumetricLightmapImport:          1: 11.1% covering 1.6% of volume
+[2019.01.18-16.41.29:763][ 57]LogVolumetricLightmapImport:          2: 77.8% covering 0.2% of volume
+[2019.01.18-16.41.29:768][ 57]LogMaterial: Warning: Material /Game/GivenAssets/Green.Green needed to have new flag set bUsedWithStaticLighting !
+[2019.01.18-16.41.29:770][ 57]LogMaterial: Display: Missing cached shader map for material Green, compiling. 
+[2019.01.18-16.41.29:800][ 57]LogMaterial: Warning: Material /Game/GivenAssets/Bark.Bark needed to have new flag set bUsedWithStaticLighting !
+[2019.01.18-16.41.29:802][ 57]LogMaterial: Display: Missing cached shader map for material Bark, compiling. 
+[2019.01.18-16.41.29:817][ 57]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.01.18-16.41.29:817][ 57]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.18-16.41.29:817][ 57]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.18-16.41.29:817][ 57]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.18-16.41.29:817][ 57]LogMaterial: Warning: Material /Game/GivenAssets/phong1.phong1 needed to have new flag set bUsedWithStaticLighting !
+[2019.01.18-16.41.29:819][ 57]LogMaterial: Display: Missing cached shader map for material phong1, compiling. 
+[2019.01.18-16.41.29:975][ 57]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 256X128)
+[2019.01.18-16.41.29:976][ 57]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2019.01.18-16.41.29:976][ 57]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2019.01.18-16.41.29:976][ 57]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 64X32)
+[2019.01.18-16.41.29:976][ 57]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2019.01.18-16.41.29:976][ 57]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2019.01.18-16.41.29:976][ 57]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 32X32)
+[2019.01.18-16.41.29:978][ 57]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 512X64)
+[2019.01.18-16.41.30:025][ 57]Lightmass on COSWAEC1104-10: 2.06 sec total, 169 ms importing, 32 ms setup, 432 ms photons, 1.36 sec processing, 0 ms extra exporting [8/8 mappings]. Threads: 9.40 sec total, 834 ms processing.
+[2019.01.18-16.41.30:029][ 57]LogStaticLightingSystem: Illumination: 13.9 sec (105 ms encoding lightmaps, 21 ms encoding shadowmaps)
+[2019.01.18-16.41.30:029][ 57]LogStaticLightingSystem: Lightmap texture memory:  0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 4 textures
+[2019.01.18-16.41.30:029][ 57]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.01.18-16.41.30:827][ 57]LogShaderCompilers: Display: Shaders left to compile 62
+[2019.01.18-16.41.30:828][ 57]DumpUnbuiltLightIteractions
+[2019.01.18-16.41.30:828][ 57]Lights with unbuilt interactions: 0
+[2019.01.18-16.41.30:828][ 57]
+[2019.01.18-16.41.30:828][ 57]Primitives with unbuilt interactions: 0
+[2019.01.18-16.41.37:244][ 57]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.01.18-16.41.37:244][ 57]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.01.18-16.41.37:244][ 57]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.01.18-16.41.37:244][ 57]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.18-16.41.37:244][ 57]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.18-16.41.37:244][ 57]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.18-16.41.37:260][ 58]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.01.18-16.41.37:260][ 58]MapCheck: New page: OverWorld - Jan 18, 2019, 6:41:37 AM
+[2019.01.18-16.41.37:397][ 58]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 136.297ms to complete.
+[2019.01.18-16.43.04:247][935]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/playerCharacter.playerCharacter
+[2019.01.18-16.43.04:678][935]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2019.01.18-16.43.25:920][503]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/OverWorld6D7E94804E34A717717F3DB9CCEBC94E.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/Levels/OverWorld.umap'
+[2019.01.18-16.43.25:945][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/OverWorld_BuiltData" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/Levels/OverWorld_BuiltData.uasset" SILENT=true
+[2019.01.18-16.43.25:973][503]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/OverWorld_BuiltData5CCBADAC46991CB0711B9D868E9ED46B.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/Levels/OverWorld_BuiltData.uasset'
+[2019.01.18-16.43.26:592][575]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.18-16.43.26:606][575]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.18-16.43.26:606][575]PIE: New page: PIE session: OverWorld (Jan 18, 2019, 6:43:26 AM)
+[2019.01.18-16.43.26:606][575]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_OverWorld
+[2019.01.18-16.43.26:607][575]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001461s)
+[2019.01.18-16.43.26:607][575]LogAIModule: Creating AISystem for world OverWorld
+[2019.01.18-16.43.26:608][575]LogPlayLevel: PIE: World Init took: (0.000641s)
+[2019.01.18-16.43.26:608][575]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/OverWorld.OverWorld to /Game/Levels/UEDPIE_0_OverWorld.OverWorld (0.002227s)
+[2019.01.18-16.43.26:640][575]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.18-16.43.26:668][575]LogInit: FAudioDevice initialized.
+[2019.01.18-16.43.26:701][575]LogLoad: Game class is 'BanjoThreeie_C'
+[2019.01.18-16.43.26:702][575]LogWorld: Bringing World /Game/Levels/UEDPIE_0_OverWorld.OverWorld up for play (max tick rate 0) at 2019.01.18-11.43.26
+[2019.01.18-16.43.26:702][575]LogWorld: Bringing up level for play took: 0.000633
+[2019.01.18-16.43.26:717][575]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_OverWorld -0.792
+[2019.01.18-16.43.29:858][945]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.18-16.43.29:893][945]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.18-16.43.29:918][945]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.18-16.43.29:963][948]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.01.18-16.43.42:486][411]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.18-16.45.00:975][246]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.01.18-16.45.21:259][937]LogSlate: Window 'Message Log' being destroyed
+[2019.01.18-16.45.21:275][937]LogSlate: Window 'Message Log' being destroyed
+[2019.01.18-16.45.40:724][869]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BanjoThreeie.BanjoThreeie
+[2019.01.18-16.45.46:251][257]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.01.18-16.46.25:607][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BanjoThreeie" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/Blueprints/BanjoThreeie.uasset" SILENT=true
+[2019.01.18-16.46.25:635][274]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/BanjoThreeieAFEA07C947406CFF1B4815BFD7F1F4C9.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/Blueprints/BanjoThreeie.uasset'
+[2019.01.18-16.46.26:225][320]BlueprintLog: New page: Compile BanjoThreeie
+[2019.01.18-16.46.32:453][813]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.18-16.46.32:480][813]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.18-16.46.32:481][813]PIE: New page: PIE session: OverWorld (Jan 18, 2019, 6:46:32 AM)
+[2019.01.18-16.46.32:481][813]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_OverWorld
+[2019.01.18-16.46.32:484][813]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003226s)
+[2019.01.18-16.46.32:485][813]LogAIModule: Creating AISystem for world OverWorld
+[2019.01.18-16.46.32:486][813]LogPlayLevel: PIE: World Init took: (0.001614s)
+[2019.01.18-16.46.32:486][813]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/OverWorld.OverWorld to /Game/Levels/UEDPIE_0_OverWorld.OverWorld (0.005065s)
+[2019.01.18-16.46.32:523][813]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.18-16.46.32:561][813]LogInit: FAudioDevice initialized.
+[2019.01.18-16.46.32:590][813]LogLoad: Game class is 'BanjoThreeie_C'
+[2019.01.18-16.46.32:592][813]LogWorld: Bringing World /Game/Levels/UEDPIE_0_OverWorld.OverWorld up for play (max tick rate 0) at 2019.01.18-11.46.32
+[2019.01.18-16.46.32:592][813]LogWorld: Bringing up level for play took: 0.000705
+[2019.01.18-16.46.32:605][813]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_OverWorld 1.093
+[2019.01.18-16.46.35:216][121]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.18-16.46.35:247][121]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.18-16.46.35:275][121]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.18-16.46.35:320][125]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.01.18-16.46.36:023][198]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.18-16.49.11:617][259]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/playerCharacter.playerCharacter
+[2019.01.18-16.49.19:647][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/playerCharacter" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/Blueprints/playerCharacter.uasset" SILENT=true
+[2019.01.18-16.49.19:671][ 77]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/playerCharacter69796C8D45CCB67A2330E5A1EC3600EC.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/Blueprints/playerCharacter.uasset'
+[2019.01.18-16.49.22:162][354]BlueprintLog: New page: Compile playerCharacter
+[2019.01.18-16.49.25:753][678]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/playerCharacter.playerCharacter
+[2019.01.18-16.49.35:327][642]LogSlate: Window 'My Blueprint' being destroyed
+[2019.01.18-16.49.49:332][664]LogSlate: Window 'Reset UI Layout' being destroyed
+[2019.01.18-16.49.49:385][665]Cmd: CLOSE_SLATE_MAINFRAME
+[2019.01.18-16.49.51:484][665]LogSlate: Window 'Save Content' being destroyed
+[2019.01.18-16.49.51:499][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/Bark" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Bark.uasset" SILENT=true
+[2019.01.18-16.49.51:524][665]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/BarkE954E1D345B6148F7C9685836580B9E5.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Bark.uasset'
+[2019.01.18-16.49.51:543][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/Green" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Green.uasset" SILENT=true
+[2019.01.18-16.49.51:555][665]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/GreenC7C08A3A40FC8BB72F565497A0166773.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/Green.uasset'
+[2019.01.18-16.49.51:565][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GivenAssets/phong1" FILE="../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/phong1.uasset" SILENT=true
+[2019.01.18-16.49.51:577][665]LogSavePackage: Moving '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Saved/phong153CAAA5E438A1521C7ABBC8F124FCB19.tmp' to '../../../../../../Users/bennett253/Documents/Unreal Projects/BanjoThreeie/Content/GivenAssets/phong1.uasset'
+[2019.01.18-16.49.51:660][665]LogSlate: Window 'BanjoThreeie' being destroyed
+[2019.01.18-16.49.51:665][665]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.01.18-16.49.51:739][665]LogSlate: Window 'BanjoThreeie - Unreal Editor' being destroyed
+[2019.01.18-16.49.51:741][665]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.18-16.49.51:951][666]Cmd: QUIT_EDITOR
+[2019.01.18-16.49.52:695][666]LogExit: Preparing to exit.
+[2019.01.18-16.49.53:734][666]LogExit: Editor shut down
+[2019.01.18-16.49.53:734][666]LogExit: Transaction tracking system shut down
+[2019.01.18-16.49.54:327][666]LogExit: Object subsystem successfully closed.
+[2019.01.18-16.49.54:344][666]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.01.18-16.49.54:349][666]LogD3D11RHI: Shutdown
+[2019.01.18-16.49.54:349][666]LogD3D11RHI: CleanupD3DDevice
+[2019.01.18-16.49.54:353][666]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.01.18-16.49.54:396][666]LogModuleManager: Shutting down and abandoning module BlueprintGraph (622)
+[2019.01.18-16.49.54:396][666]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (620)
+[2019.01.18-16.49.54:396][666]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (618)
+[2019.01.18-16.49.54:396][666]LogModuleManager: Shutting down and abandoning module Voice (616)
+[2019.01.18-16.49.54:396][666]LogModuleManager: Shutting down and abandoning module MeshBuilder (614)
+[2019.01.18-16.49.54:396][666]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (612)
+[2019.01.18-16.49.54:396][666]LogModuleManager: Shutting down and abandoning module SceneOutliner (610)
+[2019.01.18-16.49.54:396][666]LogModuleManager: Shutting down and abandoning module AddContentDialog (608)
+[2019.01.18-16.49.54:396][666]LogModuleManager: Shutting down and abandoning module WidgetCarousel (607)
+[2019.01.18-16.49.54:396][666]LogModuleManager: Shutting down and abandoning module EditorWidgets (604)
+[2019.01.18-16.49.54:396][666]LogModuleManager: Shutting down and abandoning module CollectionManager (602)
+[2019.01.18-16.49.54:396][666]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (600)
+[2019.01.18-16.49.54:396][666]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2019.01.18-16.49.54:396][666]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2019.01.18-16.49.54:396][666]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2019.01.18-16.49.54:397][666]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2019.01.18-16.49.54:397][666]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2019.01.18-16.49.54:397][666]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2019.01.18-16.49.54:397][666]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2019.01.18-16.49.54:397][666]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2019.01.18-16.49.54:397][666]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2019.01.18-16.49.54:397][666]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2019.01.18-16.49.54:397][666]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2019.01.18-16.49.54:397][666]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2019.01.18-16.49.54:397][666]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2019.01.18-16.49.54:397][666]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2019.01.18-16.49.54:397][666]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2019.01.18-16.49.54:397][666]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2019.01.18-16.49.54:397][666]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2019.01.18-16.49.54:397][666]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2019.01.18-16.49.54:397][666]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2019.01.18-16.49.54:397][666]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2019.01.18-16.49.54:397][666]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2019.01.18-16.49.54:397][666]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2019.01.18-16.49.54:397][666]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2019.01.18-16.49.54:397][666]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2019.01.18-16.49.54:397][666]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2019.01.18-16.49.54:397][666]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2019.01.18-16.49.54:397][666]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2019.01.18-16.49.54:397][666]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2019.01.18-16.49.54:397][666]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2019.01.18-16.49.54:397][666]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2019.01.18-16.49.54:397][666]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2019.01.18-16.49.54:397][666]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2019.01.18-16.49.54:397][666]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2019.01.18-16.49.54:397][666]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2019.01.18-16.49.54:397][666]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2019.01.18-16.49.54:397][666]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2019.01.18-16.49.54:397][666]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2019.01.18-16.49.54:398][666]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2019.01.18-16.49.54:398][666]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2019.01.18-16.49.54:398][666]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2019.01.18-16.49.54:398][666]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2019.01.18-16.49.54:398][666]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2019.01.18-16.49.54:398][666]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2019.01.18-16.49.54:398][666]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2019.01.18-16.49.54:398][666]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2019.01.18-16.49.54:398][666]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2019.01.18-16.49.55:439][666]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2019.01.18-16.49.55:439][666]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2019.01.18-16.49.55:439][666]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2019.01.18-16.49.55:439][666]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2019.01.18-16.49.55:439][666]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2019.01.18-16.49.55:439][666]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2019.01.18-16.49.55:439][666]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2019.01.18-16.49.55:440][666]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2019.01.18-16.49.55:440][666]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2019.01.18-16.49.55:440][666]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2019.01.18-16.49.55:440][666]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2019.01.18-16.49.55:440][666]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2019.01.18-16.49.55:440][666]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2019.01.18-16.49.55:440][666]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2019.01.18-16.49.55:440][666]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2019.01.18-16.49.55:440][666]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2019.01.18-16.49.55:440][666]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2019.01.18-16.49.55:440][666]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2019.01.18-16.49.55:440][666]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2019.01.18-16.49.55:440][666]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2019.01.18-16.49.55:440][666]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2019.01.18-16.49.55:440][666]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2019.01.18-16.49.55:506][666]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2019.01.18-16.49.55:506][666]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2019.01.18-16.49.55:506][666]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2019.01.18-16.49.55:506][666]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2019.01.18-16.49.55:506][666]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2019.01.18-16.49.55:506][666]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2019.01.18-16.49.55:506][666]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2019.01.18-16.49.55:506][666]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2019.01.18-16.49.55:506][666]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2019.01.18-16.49.55:506][666]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2019.01.18-16.49.55:510][666]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2019.01.18-16.49.55:511][666]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2019.01.18-16.49.55:512][666]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2019.01.18-16.49.55:512][666]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2019.01.18-16.49.55:512][666]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2019.01.18-16.49.55:512][666]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2019.01.18-16.49.55:512][666]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2019.01.18-16.49.55:512][666]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2019.01.18-16.49.55:513][666]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2019.01.18-16.49.55:513][666]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2019.01.18-16.49.55:513][666]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2019.01.18-16.49.55:513][666]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2019.01.18-16.49.55:513][666]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2019.01.18-16.49.55:513][666]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2019.01.18-16.49.55:513][666]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2019.01.18-16.49.55:513][666]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2019.01.18-16.49.55:513][666]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2019.01.18-16.49.55:513][666]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2019.01.18-16.49.55:513][666]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2019.01.18-16.49.55:513][666]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2019.01.18-16.49.55:513][666]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2019.01.18-16.49.55:513][666]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.01.18-16.49.55:658][666]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.01.18-16.49.55:658][666]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.01.18-16.49.55:658][666]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.01.18-16.49.55:658][666]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.01.18-16.49.55:658][666]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.01.18-16.49.55:658][666]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.01.18-16.49.55:658][666]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.01.18-16.49.55:658][666]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.01.18-16.49.55:658][666]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.01.18-16.49.55:658][666]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.01.18-16.49.55:658][666]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.01.18-16.49.55:659][666]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.01.18-16.49.55:659][666]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.01.18-16.49.55:659][666]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.01.18-16.49.55:659][666]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2019.01.18-16.49.55:659][666]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2019.01.18-16.49.55:659][666]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2019.01.18-16.49.55:659][666]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2019.01.18-16.49.55:662][666]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.01.18-16.49.55:662][666]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.01.18-16.49.55:662][666]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.01.18-16.49.55:662][666]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.01.18-16.49.55:662][666]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.01.18-16.49.55:662][666]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.01.18-16.49.55:662][666]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.01.18-16.49.55:662][666]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.01.18-16.49.55:662][666]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.01.18-16.49.55:662][666]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.01.18-16.49.55:662][666]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2019.01.18-16.49.55:662][666]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2019.01.18-16.49.55:663][666]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.01.18-16.49.55:663][666]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.01.18-16.49.55:663][666]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.01.18-16.49.55:663][666]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.01.18-16.49.55:663][666]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.01.18-16.49.55:663][666]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.01.18-16.49.55:663][666]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.01.18-16.49.55:663][666]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.01.18-16.49.55:663][666]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.01.18-16.49.55:663][666]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.01.18-16.49.55:663][666]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.01.18-16.49.55:663][666]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.01.18-16.49.55:663][666]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.01.18-16.49.55:663][666]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.01.18-16.49.55:663][666]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.01.18-16.49.55:663][666]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2019.01.18-16.49.55:663][666]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2019.01.18-16.49.55:663][666]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2019.01.18-16.49.55:663][666]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2019.01.18-16.49.55:663][666]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2019.01.18-16.49.55:663][666]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2019.01.18-16.49.55:663][666]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2019.01.18-16.49.55:663][666]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2019.01.18-16.49.55:663][666]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2019.01.18-16.49.55:663][666]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2019.01.18-16.49.55:663][666]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2019.01.18-16.49.55:663][666]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2019.01.18-16.49.55:663][666]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.01.18-16.49.55:663][666]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.01.18-16.49.55:765][666]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.01.18-16.49.55:865][666]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.01.18-16.49.55:865][666]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.01.18-16.49.55:865][666]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.01.18-16.49.55:865][666]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.01.18-16.49.55:865][666]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.01.18-16.49.55:865][666]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.01.18-16.49.55:865][666]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.01.18-16.49.55:865][666]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.01.18-16.49.55:865][666]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.01.18-16.49.55:866][666]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.01.18-16.49.55:866][666]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.01.18-16.49.55:868][666]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.01.18-16.49.55:870][666]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.01.18-16.49.55:870][666]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.01.18-16.49.55:870][666]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.01.18-16.49.55:870][666]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.01.18-16.49.55:870][666]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.01.18-16.49.55:870][666]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2019.01.18-16.49.55:871][666]LogModuleManager: Shutting down and abandoning module Media (243)
+[2019.01.18-16.49.55:877][666]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2019.01.18-16.49.55:877][666]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2019.01.18-16.49.55:877][666]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2019.01.18-16.49.55:877][666]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2019.01.18-16.49.55:877][666]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2019.01.18-16.49.55:877][666]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2019.01.18-16.49.55:877][666]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2019.01.18-16.49.55:877][666]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2019.01.18-16.49.55:877][666]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2019.01.18-16.49.55:877][666]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2019.01.18-16.49.55:877][666]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2019.01.18-16.49.55:877][666]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2019.01.18-16.49.55:877][666]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2019.01.18-16.49.55:877][666]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2019.01.18-16.49.55:878][666]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2019.01.18-16.49.55:878][666]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2019.01.18-16.49.55:878][666]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2019.01.18-16.49.55:878][666]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2019.01.18-16.49.55:878][666]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2019.01.18-16.49.55:878][666]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.01.18-16.49.55:879][666]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2019.01.18-16.49.55:879][666]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2019.01.18-16.49.55:879][666]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2019.01.18-16.49.55:879][666]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2019.01.18-16.49.55:879][666]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2019.01.18-16.49.55:879][666]LogModuleManager: Shutting down and abandoning module Core (188)
+[2019.01.18-16.49.55:879][666]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2019.01.18-16.49.55:879][666]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.01.18-16.49.55:879][666]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.01.18-16.49.55:879][666]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.01.18-16.49.55:879][666]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.01.18-16.49.55:879][666]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2019.01.18-16.49.55:879][666]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.01.18-16.49.55:880][666]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2019.01.18-16.49.55:880][666]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2019.01.18-16.49.55:880][666]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2019.01.18-16.49.55:880][666]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2019.01.18-16.49.55:880][666]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2019.01.18-16.49.55:949][666]LogDerivedDataCache: Shutdown
+[2019.01.18-16.49.55:949][666]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2019.01.18-16.49.55:949][666]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2019.01.18-16.49.55:949][666]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2019.01.18-16.49.55:949][666]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2019.01.18-16.49.55:949][666]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2019.01.18-16.49.55:949][666]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2019.01.18-16.49.55:949][666]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2019.01.18-16.49.55:949][666]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2019.01.18-16.49.55:949][666]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2019.01.18-16.49.55:950][666]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2019.01.18-16.49.55:950][666]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2019.01.18-16.49.55:950][666]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2019.01.18-16.49.55:950][666]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2019.01.18-16.49.55:950][666]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2019.01.18-16.49.55:950][666]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2019.01.18-16.49.55:950][666]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2019.01.18-16.49.55:950][666]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2019.01.18-16.49.55:950][666]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2019.01.18-16.49.55:950][666]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2019.01.18-16.49.55:950][666]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2019.01.18-16.49.55:950][666]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2019.01.18-16.49.55:950][666]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2019.01.18-16.49.55:950][666]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2019.01.18-16.49.55:951][666]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2019.01.18-16.49.55:951][666]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2019.01.18-16.49.55:952][666]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2019.01.18-16.49.55:952][666]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2019.01.18-16.49.55:960][666]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2019.01.18-16.49.55:960][666]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2019.01.18-16.49.55:960][666]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2019.01.18-16.49.55:960][666]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2019.01.18-16.49.55:960][666]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2019.01.18-16.49.55:960][666]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2019.01.18-16.49.55:960][666]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2019.01.18-16.49.55:960][666]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2019.01.18-16.49.55:960][666]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2019.01.18-16.49.55:960][666]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2019.01.18-16.49.55:960][666]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2019.01.18-16.49.55:960][666]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.01.18-16.49.55:960][666]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2019.01.18-16.49.55:960][666]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2019.01.18-16.49.55:960][666]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2019.01.18-16.49.55:960][666]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2019.01.18-16.49.55:960][666]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2019.01.18-16.49.55:960][666]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2019.01.18-16.49.55:961][666]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2019.01.18-16.49.55:961][666]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2019.01.18-16.49.55:983][666]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2019.01.18-16.49.55:983][666]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.01.18-16.49.55:983][666]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5DFC5374-4016-0E49-4CA4-13B383AD7856%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=a6e8db074ffe182886fe3099353499ed%7Cd5ba7f62ebb14b6fbe4953288917be83%7C0b17358d-c29c-4bea-898d-de6af1f3f191&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.01.18-16.49.55:987][666]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2019.01.18-16.49.55:988][666]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2019.01.18-16.49.55:988][666]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2019.01.18-16.49.55:988][666]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2019.01.18-16.49.55:988][666]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2019.01.18-16.49.55:988][666]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2019.01.18-16.49.55:988][666]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2019.01.18-16.49.55:988][666]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2019.01.18-16.49.55:988][666]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2019.01.18-16.49.55:988][666]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2019.01.18-16.49.55:988][666]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.01.18-16.49.55:988][666]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2019.01.18-16.49.55:988][666]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.01.18-16.49.55:988][666]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.01.18-16.49.55:988][666]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.01.18-16.49.55:989][666]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.01.18-16.49.55:989][666]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.01.18-16.49.55:989][666]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.01.18-16.49.55:989][666]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.01.18-16.49.55:989][666]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.01.18-16.49.55:989][666]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.01.18-16.49.55:989][666]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.01.18-16.49.55:989][666]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.01.18-16.49.55:989][666]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.01.18-16.49.55:989][666]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.01.18-16.49.55:989][666]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.01.18-16.49.55:989][666]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.01.18-16.49.55:989][666]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.01.18-16.49.55:989][666]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.01.18-16.49.55:989][666]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.01.18-16.49.55:995][666]LogExit: Exiting.
+[2019.01.18-16.49.56:021][666]Log file closed, 01/18/19 11:49:56
